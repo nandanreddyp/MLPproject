@@ -1,0 +1,5001 @@
+ID,Crime_Category
+0,Violent Crimes
+1,Property Crimes
+2,Violent Crimes
+3,Property Crimes
+4,Violent Crimes
+5,Property Crimes
+6,Violent Crimes
+7,Crimes against Public Order
+8,Property Crimes
+9,Violent Crimes
+10,Property Crimes
+11,Violent Crimes
+12,Property Crimes
+13,Fraud and White-Collar Crimes
+14,Property Crimes
+15,Violent Crimes
+16,Property Crimes
+17,Property Crimes
+18,Property Crimes
+19,Property Crimes
+20,Property Crimes
+21,Property Crimes
+22,Property Crimes
+23,Property Crimes
+24,Property Crimes
+25,Violent Crimes
+26,Property Crimes
+27,Property Crimes
+28,Violent Crimes
+29,Property Crimes
+30,Property Crimes
+31,Property Crimes
+32,Property Crimes
+33,Property Crimes
+34,Violent Crimes
+35,Violent Crimes
+36,Property Crimes
+37,Fraud and White-Collar Crimes
+38,Property Crimes
+39,Violent Crimes
+40,Property Crimes
+41,Property Crimes
+42,Violent Crimes
+43,Violent Crimes
+44,Violent Crimes
+45,Property Crimes
+46,Violent Crimes
+47,Property Crimes
+48,Property Crimes
+49,Property Crimes
+50,Other Crimes
+51,Property Crimes
+52,Fraud and White-Collar Crimes
+53,Property Crimes
+54,Violent Crimes
+55,Property Crimes
+56,Property Crimes
+57,Property Crimes
+58,Property Crimes
+59,Fraud and White-Collar Crimes
+60,Violent Crimes
+61,Violent Crimes
+62,Property Crimes
+63,Property Crimes
+64,Property Crimes
+65,Violent Crimes
+66,Property Crimes
+67,Property Crimes
+68,Property Crimes
+69,Property Crimes
+70,Violent Crimes
+71,Violent Crimes
+72,Fraud and White-Collar Crimes
+73,Violent Crimes
+74,Property Crimes
+75,Violent Crimes
+76,Property Crimes
+77,Property Crimes
+78,Violent Crimes
+79,Violent Crimes
+80,Property Crimes
+81,Property Crimes
+82,Property Crimes
+83,Violent Crimes
+84,Violent Crimes
+85,Property Crimes
+86,Fraud and White-Collar Crimes
+87,Fraud and White-Collar Crimes
+88,Property Crimes
+89,Fraud and White-Collar Crimes
+90,Fraud and White-Collar Crimes
+91,Fraud and White-Collar Crimes
+92,Property Crimes
+93,Property Crimes
+94,Crimes against Public Order
+95,Violent Crimes
+96,Violent Crimes
+97,Property Crimes
+98,Property Crimes
+99,Property Crimes
+100,Property Crimes
+101,Violent Crimes
+102,Violent Crimes
+103,Property Crimes
+104,Property Crimes
+105,Property Crimes
+106,Violent Crimes
+107,Property Crimes
+108,Violent Crimes
+109,Property Crimes
+110,Violent Crimes
+111,Property Crimes
+112,Property Crimes
+113,Violent Crimes
+114,Violent Crimes
+115,Property Crimes
+116,Violent Crimes
+117,Property Crimes
+118,Property Crimes
+119,Property Crimes
+120,Violent Crimes
+121,Fraud and White-Collar Crimes
+122,Property Crimes
+123,Property Crimes
+124,Property Crimes
+125,Property Crimes
+126,Property Crimes
+127,Property Crimes
+128,Property Crimes
+129,Property Crimes
+130,Violent Crimes
+131,Violent Crimes
+132,Violent Crimes
+133,Property Crimes
+134,Violent Crimes
+135,Property Crimes
+136,Property Crimes
+137,Property Crimes
+138,Violent Crimes
+139,Property Crimes
+140,Violent Crimes
+141,Property Crimes
+142,Property Crimes
+143,Property Crimes
+144,Violent Crimes
+145,Violent Crimes
+146,Violent Crimes
+147,Property Crimes
+148,Property Crimes
+149,Property Crimes
+150,Property Crimes
+151,Property Crimes
+152,Violent Crimes
+153,Property Crimes
+154,Property Crimes
+155,Property Crimes
+156,Property Crimes
+157,Property Crimes
+158,Property Crimes
+159,Property Crimes
+160,Property Crimes
+161,Property Crimes
+162,Property Crimes
+163,Property Crimes
+164,Fraud and White-Collar Crimes
+165,Fraud and White-Collar Crimes
+166,Property Crimes
+167,Violent Crimes
+168,Property Crimes
+169,Violent Crimes
+170,Property Crimes
+171,Property Crimes
+172,Property Crimes
+173,Property Crimes
+174,Violent Crimes
+175,Property Crimes
+176,Property Crimes
+177,Property Crimes
+178,Property Crimes
+179,Property Crimes
+180,Violent Crimes
+181,Property Crimes
+182,Property Crimes
+183,Violent Crimes
+184,Fraud and White-Collar Crimes
+185,Property Crimes
+186,Property Crimes
+187,Property Crimes
+188,Property Crimes
+189,Property Crimes
+190,Property Crimes
+191,Property Crimes
+192,Property Crimes
+193,Property Crimes
+194,Property Crimes
+195,Property Crimes
+196,Property Crimes
+197,Violent Crimes
+198,Property Crimes
+199,Property Crimes
+200,Property Crimes
+201,Property Crimes
+202,Property Crimes
+203,Property Crimes
+204,Property Crimes
+205,Violent Crimes
+206,Property Crimes
+207,Property Crimes
+208,Property Crimes
+209,Property Crimes
+210,Property Crimes
+211,Property Crimes
+212,Property Crimes
+213,Violent Crimes
+214,Violent Crimes
+215,Property Crimes
+216,Violent Crimes
+217,Violent Crimes
+218,Fraud and White-Collar Crimes
+219,Violent Crimes
+220,Fraud and White-Collar Crimes
+221,Property Crimes
+222,Property Crimes
+223,Property Crimes
+224,Violent Crimes
+225,Property Crimes
+226,Property Crimes
+227,Property Crimes
+228,Violent Crimes
+229,Violent Crimes
+230,Property Crimes
+231,Crimes against Public Order
+232,Property Crimes
+233,Property Crimes
+234,Property Crimes
+235,Violent Crimes
+236,Fraud and White-Collar Crimes
+237,Property Crimes
+238,Violent Crimes
+239,Property Crimes
+240,Property Crimes
+241,Property Crimes
+242,Other Crimes
+243,Property Crimes
+244,Violent Crimes
+245,Property Crimes
+246,Property Crimes
+247,Property Crimes
+248,Violent Crimes
+249,Property Crimes
+250,Property Crimes
+251,Property Crimes
+252,Property Crimes
+253,Property Crimes
+254,Property Crimes
+255,Property Crimes
+256,Property Crimes
+257,Violent Crimes
+258,Property Crimes
+259,Property Crimes
+260,Property Crimes
+261,Property Crimes
+262,Crimes against Public Order
+263,Property Crimes
+264,Violent Crimes
+265,Property Crimes
+266,Property Crimes
+267,Property Crimes
+268,Property Crimes
+269,Property Crimes
+270,Violent Crimes
+271,Property Crimes
+272,Violent Crimes
+273,Violent Crimes
+274,Property Crimes
+275,Property Crimes
+276,Property Crimes
+277,Violent Crimes
+278,Property Crimes
+279,Fraud and White-Collar Crimes
+280,Property Crimes
+281,Property Crimes
+282,Property Crimes
+283,Property Crimes
+284,Violent Crimes
+285,Property Crimes
+286,Fraud and White-Collar Crimes
+287,Property Crimes
+288,Property Crimes
+289,Property Crimes
+290,Violent Crimes
+291,Property Crimes
+292,Property Crimes
+293,Property Crimes
+294,Property Crimes
+295,Fraud and White-Collar Crimes
+296,Fraud and White-Collar Crimes
+297,Property Crimes
+298,Violent Crimes
+299,Fraud and White-Collar Crimes
+300,Property Crimes
+301,Fraud and White-Collar Crimes
+302,Violent Crimes
+303,Violent Crimes
+304,Property Crimes
+305,Property Crimes
+306,Property Crimes
+307,Fraud and White-Collar Crimes
+308,Property Crimes
+309,Property Crimes
+310,Property Crimes
+311,Violent Crimes
+312,Property Crimes
+313,Property Crimes
+314,Crimes against Public Order
+315,Fraud and White-Collar Crimes
+316,Violent Crimes
+317,Property Crimes
+318,Property Crimes
+319,Property Crimes
+320,Property Crimes
+321,Fraud and White-Collar Crimes
+322,Property Crimes
+323,Crimes against Public Order
+324,Property Crimes
+325,Property Crimes
+326,Violent Crimes
+327,Property Crimes
+328,Property Crimes
+329,Violent Crimes
+330,Property Crimes
+331,Property Crimes
+332,Crimes against Public Order
+333,Property Crimes
+334,Property Crimes
+335,Property Crimes
+336,Property Crimes
+337,Property Crimes
+338,Violent Crimes
+339,Violent Crimes
+340,Property Crimes
+341,Violent Crimes
+342,Violent Crimes
+343,Violent Crimes
+344,Property Crimes
+345,Property Crimes
+346,Property Crimes
+347,Violent Crimes
+348,Violent Crimes
+349,Property Crimes
+350,Property Crimes
+351,Violent Crimes
+352,Violent Crimes
+353,Property Crimes
+354,Property Crimes
+355,Violent Crimes
+356,Violent Crimes
+357,Property Crimes
+358,Property Crimes
+359,Property Crimes
+360,Fraud and White-Collar Crimes
+361,Violent Crimes
+362,Property Crimes
+363,Property Crimes
+364,Property Crimes
+365,Property Crimes
+366,Violent Crimes
+367,Property Crimes
+368,Property Crimes
+369,Property Crimes
+370,Property Crimes
+371,Property Crimes
+372,Property Crimes
+373,Property Crimes
+374,Violent Crimes
+375,Property Crimes
+376,Violent Crimes
+377,Property Crimes
+378,Violent Crimes
+379,Fraud and White-Collar Crimes
+380,Property Crimes
+381,Property Crimes
+382,Violent Crimes
+383,Violent Crimes
+384,Violent Crimes
+385,Property Crimes
+386,Property Crimes
+387,Property Crimes
+388,Property Crimes
+389,Violent Crimes
+390,Violent Crimes
+391,Property Crimes
+392,Property Crimes
+393,Property Crimes
+394,Fraud and White-Collar Crimes
+395,Property Crimes
+396,Property Crimes
+397,Property Crimes
+398,Property Crimes
+399,Fraud and White-Collar Crimes
+400,Property Crimes
+401,Violent Crimes
+402,Property Crimes
+403,Property Crimes
+404,Property Crimes
+405,Property Crimes
+406,Property Crimes
+407,Violent Crimes
+408,Property Crimes
+409,Property Crimes
+410,Violent Crimes
+411,Property Crimes
+412,Property Crimes
+413,Property Crimes
+414,Property Crimes
+415,Violent Crimes
+416,Violent Crimes
+417,Violent Crimes
+418,Property Crimes
+419,Property Crimes
+420,Violent Crimes
+421,Property Crimes
+422,Crimes against Public Order
+423,Violent Crimes
+424,Property Crimes
+425,Property Crimes
+426,Property Crimes
+427,Violent Crimes
+428,Violent Crimes
+429,Property Crimes
+430,Property Crimes
+431,Property Crimes
+432,Property Crimes
+433,Property Crimes
+434,Property Crimes
+435,Property Crimes
+436,Property Crimes
+437,Property Crimes
+438,Property Crimes
+439,Violent Crimes
+440,Property Crimes
+441,Property Crimes
+442,Property Crimes
+443,Property Crimes
+444,Property Crimes
+445,Crimes against Public Order
+446,Property Crimes
+447,Property Crimes
+448,Fraud and White-Collar Crimes
+449,Property Crimes
+450,Property Crimes
+451,Property Crimes
+452,Violent Crimes
+453,Property Crimes
+454,Property Crimes
+455,Property Crimes
+456,Violent Crimes
+457,Property Crimes
+458,Property Crimes
+459,Property Crimes
+460,Violent Crimes
+461,Property Crimes
+462,Violent Crimes
+463,Property Crimes
+464,Property Crimes
+465,Property Crimes
+466,Violent Crimes
+467,Property Crimes
+468,Property Crimes
+469,Property Crimes
+470,Property Crimes
+471,Property Crimes
+472,Property Crimes
+473,Property Crimes
+474,Crimes against Public Order
+475,Property Crimes
+476,Property Crimes
+477,Violent Crimes
+478,Property Crimes
+479,Property Crimes
+480,Violent Crimes
+481,Property Crimes
+482,Violent Crimes
+483,Property Crimes
+484,Property Crimes
+485,Crimes against Persons
+486,Violent Crimes
+487,Property Crimes
+488,Property Crimes
+489,Property Crimes
+490,Property Crimes
+491,Property Crimes
+492,Property Crimes
+493,Property Crimes
+494,Property Crimes
+495,Violent Crimes
+496,Property Crimes
+497,Violent Crimes
+498,Violent Crimes
+499,Violent Crimes
+500,Property Crimes
+501,Violent Crimes
+502,Property Crimes
+503,Property Crimes
+504,Property Crimes
+505,Property Crimes
+506,Property Crimes
+507,Property Crimes
+508,Violent Crimes
+509,Property Crimes
+510,Property Crimes
+511,Fraud and White-Collar Crimes
+512,Property Crimes
+513,Violent Crimes
+514,Property Crimes
+515,Property Crimes
+516,Violent Crimes
+517,Property Crimes
+518,Fraud and White-Collar Crimes
+519,Property Crimes
+520,Property Crimes
+521,Property Crimes
+522,Property Crimes
+523,Property Crimes
+524,Property Crimes
+525,Fraud and White-Collar Crimes
+526,Property Crimes
+527,Property Crimes
+528,Violent Crimes
+529,Property Crimes
+530,Property Crimes
+531,Violent Crimes
+532,Property Crimes
+533,Property Crimes
+534,Property Crimes
+535,Property Crimes
+536,Property Crimes
+537,Crimes against Public Order
+538,Fraud and White-Collar Crimes
+539,Property Crimes
+540,Violent Crimes
+541,Violent Crimes
+542,Fraud and White-Collar Crimes
+543,Property Crimes
+544,Property Crimes
+545,Property Crimes
+546,Violent Crimes
+547,Property Crimes
+548,Property Crimes
+549,Property Crimes
+550,Fraud and White-Collar Crimes
+551,Property Crimes
+552,Violent Crimes
+553,Violent Crimes
+554,Violent Crimes
+555,Property Crimes
+556,Property Crimes
+557,Fraud and White-Collar Crimes
+558,Violent Crimes
+559,Property Crimes
+560,Violent Crimes
+561,Property Crimes
+562,Violent Crimes
+563,Fraud and White-Collar Crimes
+564,Property Crimes
+565,Violent Crimes
+566,Violent Crimes
+567,Violent Crimes
+568,Violent Crimes
+569,Property Crimes
+570,Violent Crimes
+571,Violent Crimes
+572,Property Crimes
+573,Property Crimes
+574,Fraud and White-Collar Crimes
+575,Crimes against Public Order
+576,Property Crimes
+577,Property Crimes
+578,Fraud and White-Collar Crimes
+579,Property Crimes
+580,Violent Crimes
+581,Violent Crimes
+582,Property Crimes
+583,Property Crimes
+584,Violent Crimes
+585,Property Crimes
+586,Property Crimes
+587,Property Crimes
+588,Property Crimes
+589,Violent Crimes
+590,Fraud and White-Collar Crimes
+591,Property Crimes
+592,Property Crimes
+593,Crimes against Public Order
+594,Fraud and White-Collar Crimes
+595,Violent Crimes
+596,Property Crimes
+597,Property Crimes
+598,Property Crimes
+599,Property Crimes
+600,Violent Crimes
+601,Property Crimes
+602,Property Crimes
+603,Property Crimes
+604,Violent Crimes
+605,Property Crimes
+606,Property Crimes
+607,Property Crimes
+608,Property Crimes
+609,Violent Crimes
+610,Violent Crimes
+611,Property Crimes
+612,Violent Crimes
+613,Property Crimes
+614,Property Crimes
+615,Property Crimes
+616,Violent Crimes
+617,Property Crimes
+618,Property Crimes
+619,Property Crimes
+620,Violent Crimes
+621,Fraud and White-Collar Crimes
+622,Violent Crimes
+623,Fraud and White-Collar Crimes
+624,Property Crimes
+625,Violent Crimes
+626,Property Crimes
+627,Property Crimes
+628,Property Crimes
+629,Property Crimes
+630,Property Crimes
+631,Violent Crimes
+632,Violent Crimes
+633,Property Crimes
+634,Violent Crimes
+635,Property Crimes
+636,Property Crimes
+637,Property Crimes
+638,Property Crimes
+639,Property Crimes
+640,Property Crimes
+641,Violent Crimes
+642,Property Crimes
+643,Violent Crimes
+644,Property Crimes
+645,Property Crimes
+646,Property Crimes
+647,Fraud and White-Collar Crimes
+648,Violent Crimes
+649,Crimes against Public Order
+650,Property Crimes
+651,Violent Crimes
+652,Property Crimes
+653,Violent Crimes
+654,Property Crimes
+655,Fraud and White-Collar Crimes
+656,Property Crimes
+657,Violent Crimes
+658,Property Crimes
+659,Property Crimes
+660,Property Crimes
+661,Property Crimes
+662,Property Crimes
+663,Property Crimes
+664,Property Crimes
+665,Property Crimes
+666,Fraud and White-Collar Crimes
+667,Violent Crimes
+668,Violent Crimes
+669,Property Crimes
+670,Property Crimes
+671,Property Crimes
+672,Property Crimes
+673,Property Crimes
+674,Property Crimes
+675,Property Crimes
+676,Fraud and White-Collar Crimes
+677,Violent Crimes
+678,Property Crimes
+679,Property Crimes
+680,Violent Crimes
+681,Property Crimes
+682,Property Crimes
+683,Violent Crimes
+684,Fraud and White-Collar Crimes
+685,Property Crimes
+686,Property Crimes
+687,Property Crimes
+688,Violent Crimes
+689,Property Crimes
+690,Property Crimes
+691,Property Crimes
+692,Property Crimes
+693,Violent Crimes
+694,Violent Crimes
+695,Property Crimes
+696,Property Crimes
+697,Property Crimes
+698,Property Crimes
+699,Property Crimes
+700,Violent Crimes
+701,Property Crimes
+702,Property Crimes
+703,Violent Crimes
+704,Property Crimes
+705,Property Crimes
+706,Property Crimes
+707,Crimes against Public Order
+708,Property Crimes
+709,Violent Crimes
+710,Property Crimes
+711,Property Crimes
+712,Property Crimes
+713,Violent Crimes
+714,Property Crimes
+715,Property Crimes
+716,Property Crimes
+717,Property Crimes
+718,Property Crimes
+719,Property Crimes
+720,Violent Crimes
+721,Property Crimes
+722,Violent Crimes
+723,Fraud and White-Collar Crimes
+724,Property Crimes
+725,Violent Crimes
+726,Violent Crimes
+727,Violent Crimes
+728,Property Crimes
+729,Property Crimes
+730,Violent Crimes
+731,Property Crimes
+732,Violent Crimes
+733,Violent Crimes
+734,Crimes against Public Order
+735,Property Crimes
+736,Property Crimes
+737,Violent Crimes
+738,Property Crimes
+739,Violent Crimes
+740,Property Crimes
+741,Crimes against Public Order
+742,Violent Crimes
+743,Property Crimes
+744,Property Crimes
+745,Violent Crimes
+746,Property Crimes
+747,Property Crimes
+748,Violent Crimes
+749,Property Crimes
+750,Property Crimes
+751,Violent Crimes
+752,Property Crimes
+753,Property Crimes
+754,Violent Crimes
+755,Property Crimes
+756,Violent Crimes
+757,Property Crimes
+758,Violent Crimes
+759,Property Crimes
+760,Property Crimes
+761,Property Crimes
+762,Property Crimes
+763,Property Crimes
+764,Violent Crimes
+765,Property Crimes
+766,Property Crimes
+767,Property Crimes
+768,Property Crimes
+769,Violent Crimes
+770,Violent Crimes
+771,Property Crimes
+772,Violent Crimes
+773,Violent Crimes
+774,Property Crimes
+775,Property Crimes
+776,Violent Crimes
+777,Fraud and White-Collar Crimes
+778,Property Crimes
+779,Property Crimes
+780,Property Crimes
+781,Crimes against Public Order
+782,Property Crimes
+783,Property Crimes
+784,Property Crimes
+785,Property Crimes
+786,Property Crimes
+787,Property Crimes
+788,Property Crimes
+789,Violent Crimes
+790,Violent Crimes
+791,Violent Crimes
+792,Violent Crimes
+793,Violent Crimes
+794,Property Crimes
+795,Crimes against Public Order
+796,Property Crimes
+797,Violent Crimes
+798,Property Crimes
+799,Property Crimes
+800,Property Crimes
+801,Property Crimes
+802,Property Crimes
+803,Property Crimes
+804,Fraud and White-Collar Crimes
+805,Property Crimes
+806,Fraud and White-Collar Crimes
+807,Property Crimes
+808,Property Crimes
+809,Fraud and White-Collar Crimes
+810,Property Crimes
+811,Property Crimes
+812,Other Crimes
+813,Property Crimes
+814,Property Crimes
+815,Property Crimes
+816,Property Crimes
+817,Property Crimes
+818,Property Crimes
+819,Property Crimes
+820,Property Crimes
+821,Property Crimes
+822,Fraud and White-Collar Crimes
+823,Property Crimes
+824,Property Crimes
+825,Property Crimes
+826,Property Crimes
+827,Property Crimes
+828,Property Crimes
+829,Violent Crimes
+830,Property Crimes
+831,Property Crimes
+832,Fraud and White-Collar Crimes
+833,Violent Crimes
+834,Property Crimes
+835,Property Crimes
+836,Violent Crimes
+837,Property Crimes
+838,Violent Crimes
+839,Property Crimes
+840,Violent Crimes
+841,Property Crimes
+842,Fraud and White-Collar Crimes
+843,Violent Crimes
+844,Property Crimes
+845,Crimes against Public Order
+846,Property Crimes
+847,Property Crimes
+848,Property Crimes
+849,Fraud and White-Collar Crimes
+850,Property Crimes
+851,Property Crimes
+852,Fraud and White-Collar Crimes
+853,Property Crimes
+854,Property Crimes
+855,Property Crimes
+856,Property Crimes
+857,Violent Crimes
+858,Violent Crimes
+859,Property Crimes
+860,Fraud and White-Collar Crimes
+861,Violent Crimes
+862,Property Crimes
+863,Property Crimes
+864,Property Crimes
+865,Property Crimes
+866,Violent Crimes
+867,Property Crimes
+868,Violent Crimes
+869,Property Crimes
+870,Violent Crimes
+871,Property Crimes
+872,Property Crimes
+873,Violent Crimes
+874,Violent Crimes
+875,Violent Crimes
+876,Violent Crimes
+877,Property Crimes
+878,Violent Crimes
+879,Violent Crimes
+880,Fraud and White-Collar Crimes
+881,Violent Crimes
+882,Property Crimes
+883,Violent Crimes
+884,Violent Crimes
+885,Property Crimes
+886,Property Crimes
+887,Property Crimes
+888,Violent Crimes
+889,Violent Crimes
+890,Property Crimes
+891,Fraud and White-Collar Crimes
+892,Violent Crimes
+893,Violent Crimes
+894,Fraud and White-Collar Crimes
+895,Property Crimes
+896,Property Crimes
+897,Property Crimes
+898,Property Crimes
+899,Property Crimes
+900,Property Crimes
+901,Fraud and White-Collar Crimes
+902,Property Crimes
+903,Violent Crimes
+904,Violent Crimes
+905,Crimes against Persons
+906,Crimes against Public Order
+907,Property Crimes
+908,Violent Crimes
+909,Violent Crimes
+910,Violent Crimes
+911,Property Crimes
+912,Property Crimes
+913,Property Crimes
+914,Property Crimes
+915,Fraud and White-Collar Crimes
+916,Violent Crimes
+917,Property Crimes
+918,Property Crimes
+919,Property Crimes
+920,Violent Crimes
+921,Property Crimes
+922,Fraud and White-Collar Crimes
+923,Violent Crimes
+924,Property Crimes
+925,Violent Crimes
+926,Property Crimes
+927,Property Crimes
+928,Property Crimes
+929,Violent Crimes
+930,Property Crimes
+931,Property Crimes
+932,Property Crimes
+933,Fraud and White-Collar Crimes
+934,Violent Crimes
+935,Property Crimes
+936,Crimes against Public Order
+937,Property Crimes
+938,Property Crimes
+939,Property Crimes
+940,Fraud and White-Collar Crimes
+941,Violent Crimes
+942,Violent Crimes
+943,Property Crimes
+944,Violent Crimes
+945,Crimes against Public Order
+946,Violent Crimes
+947,Property Crimes
+948,Violent Crimes
+949,Violent Crimes
+950,Property Crimes
+951,Fraud and White-Collar Crimes
+952,Property Crimes
+953,Property Crimes
+954,Violent Crimes
+955,Violent Crimes
+956,Property Crimes
+957,Property Crimes
+958,Property Crimes
+959,Crimes against Public Order
+960,Violent Crimes
+961,Property Crimes
+962,Property Crimes
+963,Property Crimes
+964,Property Crimes
+965,Property Crimes
+966,Violent Crimes
+967,Property Crimes
+968,Violent Crimes
+969,Violent Crimes
+970,Violent Crimes
+971,Property Crimes
+972,Violent Crimes
+973,Property Crimes
+974,Property Crimes
+975,Property Crimes
+976,Violent Crimes
+977,Property Crimes
+978,Violent Crimes
+979,Property Crimes
+980,Property Crimes
+981,Violent Crimes
+982,Property Crimes
+983,Violent Crimes
+984,Property Crimes
+985,Crimes against Public Order
+986,Property Crimes
+987,Property Crimes
+988,Property Crimes
+989,Property Crimes
+990,Property Crimes
+991,Property Crimes
+992,Property Crimes
+993,Violent Crimes
+994,Violent Crimes
+995,Violent Crimes
+996,Property Crimes
+997,Property Crimes
+998,Property Crimes
+999,Property Crimes
+1000,Property Crimes
+1001,Property Crimes
+1002,Fraud and White-Collar Crimes
+1003,Property Crimes
+1004,Violent Crimes
+1005,Property Crimes
+1006,Violent Crimes
+1007,Property Crimes
+1008,Property Crimes
+1009,Violent Crimes
+1010,Violent Crimes
+1011,Property Crimes
+1012,Fraud and White-Collar Crimes
+1013,Property Crimes
+1014,Fraud and White-Collar Crimes
+1015,Property Crimes
+1016,Violent Crimes
+1017,Property Crimes
+1018,Property Crimes
+1019,Property Crimes
+1020,Property Crimes
+1021,Property Crimes
+1022,Violent Crimes
+1023,Violent Crimes
+1024,Property Crimes
+1025,Fraud and White-Collar Crimes
+1026,Property Crimes
+1027,Violent Crimes
+1028,Violent Crimes
+1029,Property Crimes
+1030,Fraud and White-Collar Crimes
+1031,Violent Crimes
+1032,Violent Crimes
+1033,Property Crimes
+1034,Violent Crimes
+1035,Fraud and White-Collar Crimes
+1036,Property Crimes
+1037,Violent Crimes
+1038,Violent Crimes
+1039,Violent Crimes
+1040,Violent Crimes
+1041,Property Crimes
+1042,Property Crimes
+1043,Property Crimes
+1044,Violent Crimes
+1045,Property Crimes
+1046,Property Crimes
+1047,Property Crimes
+1048,Property Crimes
+1049,Property Crimes
+1050,Property Crimes
+1051,Violent Crimes
+1052,Violent Crimes
+1053,Violent Crimes
+1054,Violent Crimes
+1055,Violent Crimes
+1056,Violent Crimes
+1057,Violent Crimes
+1058,Property Crimes
+1059,Property Crimes
+1060,Violent Crimes
+1061,Property Crimes
+1062,Property Crimes
+1063,Property Crimes
+1064,Property Crimes
+1065,Property Crimes
+1066,Fraud and White-Collar Crimes
+1067,Property Crimes
+1068,Property Crimes
+1069,Property Crimes
+1070,Violent Crimes
+1071,Property Crimes
+1072,Violent Crimes
+1073,Property Crimes
+1074,Violent Crimes
+1075,Property Crimes
+1076,Property Crimes
+1077,Crimes against Public Order
+1078,Property Crimes
+1079,Violent Crimes
+1080,Property Crimes
+1081,Violent Crimes
+1082,Property Crimes
+1083,Property Crimes
+1084,Property Crimes
+1085,Property Crimes
+1086,Violent Crimes
+1087,Property Crimes
+1088,Property Crimes
+1089,Property Crimes
+1090,Violent Crimes
+1091,Property Crimes
+1092,Violent Crimes
+1093,Violent Crimes
+1094,Fraud and White-Collar Crimes
+1095,Violent Crimes
+1096,Property Crimes
+1097,Violent Crimes
+1098,Property Crimes
+1099,Violent Crimes
+1100,Property Crimes
+1101,Property Crimes
+1102,Property Crimes
+1103,Property Crimes
+1104,Violent Crimes
+1105,Property Crimes
+1106,Property Crimes
+1107,Property Crimes
+1108,Property Crimes
+1109,Violent Crimes
+1110,Violent Crimes
+1111,Property Crimes
+1112,Property Crimes
+1113,Violent Crimes
+1114,Property Crimes
+1115,Property Crimes
+1116,Property Crimes
+1117,Property Crimes
+1118,Violent Crimes
+1119,Violent Crimes
+1120,Property Crimes
+1121,Violent Crimes
+1122,Property Crimes
+1123,Property Crimes
+1124,Property Crimes
+1125,Violent Crimes
+1126,Property Crimes
+1127,Property Crimes
+1128,Property Crimes
+1129,Violent Crimes
+1130,Property Crimes
+1131,Violent Crimes
+1132,Violent Crimes
+1133,Property Crimes
+1134,Property Crimes
+1135,Fraud and White-Collar Crimes
+1136,Property Crimes
+1137,Fraud and White-Collar Crimes
+1138,Violent Crimes
+1139,Violent Crimes
+1140,Property Crimes
+1141,Property Crimes
+1142,Property Crimes
+1143,Property Crimes
+1144,Violent Crimes
+1145,Property Crimes
+1146,Violent Crimes
+1147,Crimes against Public Order
+1148,Property Crimes
+1149,Property Crimes
+1150,Property Crimes
+1151,Property Crimes
+1152,Fraud and White-Collar Crimes
+1153,Fraud and White-Collar Crimes
+1154,Fraud and White-Collar Crimes
+1155,Property Crimes
+1156,Property Crimes
+1157,Property Crimes
+1158,Property Crimes
+1159,Property Crimes
+1160,Property Crimes
+1161,Property Crimes
+1162,Property Crimes
+1163,Fraud and White-Collar Crimes
+1164,Violent Crimes
+1165,Violent Crimes
+1166,Property Crimes
+1167,Property Crimes
+1168,Property Crimes
+1169,Fraud and White-Collar Crimes
+1170,Violent Crimes
+1171,Violent Crimes
+1172,Violent Crimes
+1173,Crimes against Public Order
+1174,Property Crimes
+1175,Property Crimes
+1176,Crimes against Public Order
+1177,Property Crimes
+1178,Property Crimes
+1179,Property Crimes
+1180,Violent Crimes
+1181,Violent Crimes
+1182,Violent Crimes
+1183,Property Crimes
+1184,Violent Crimes
+1185,Property Crimes
+1186,Violent Crimes
+1187,Property Crimes
+1188,Property Crimes
+1189,Property Crimes
+1190,Crimes against Public Order
+1191,Property Crimes
+1192,Property Crimes
+1193,Property Crimes
+1194,Property Crimes
+1195,Violent Crimes
+1196,Property Crimes
+1197,Property Crimes
+1198,Violent Crimes
+1199,Property Crimes
+1200,Violent Crimes
+1201,Property Crimes
+1202,Property Crimes
+1203,Fraud and White-Collar Crimes
+1204,Property Crimes
+1205,Violent Crimes
+1206,Property Crimes
+1207,Property Crimes
+1208,Property Crimes
+1209,Violent Crimes
+1210,Property Crimes
+1211,Fraud and White-Collar Crimes
+1212,Violent Crimes
+1213,Property Crimes
+1214,Property Crimes
+1215,Property Crimes
+1216,Property Crimes
+1217,Property Crimes
+1218,Crimes against Public Order
+1219,Property Crimes
+1220,Violent Crimes
+1221,Property Crimes
+1222,Property Crimes
+1223,Violent Crimes
+1224,Property Crimes
+1225,Property Crimes
+1226,Violent Crimes
+1227,Crimes against Public Order
+1228,Other Crimes
+1229,Violent Crimes
+1230,Violent Crimes
+1231,Property Crimes
+1232,Violent Crimes
+1233,Property Crimes
+1234,Property Crimes
+1235,Violent Crimes
+1236,Property Crimes
+1237,Property Crimes
+1238,Violent Crimes
+1239,Violent Crimes
+1240,Property Crimes
+1241,Property Crimes
+1242,Violent Crimes
+1243,Property Crimes
+1244,Property Crimes
+1245,Crimes against Public Order
+1246,Property Crimes
+1247,Property Crimes
+1248,Violent Crimes
+1249,Property Crimes
+1250,Property Crimes
+1251,Violent Crimes
+1252,Property Crimes
+1253,Violent Crimes
+1254,Property Crimes
+1255,Property Crimes
+1256,Crimes against Public Order
+1257,Violent Crimes
+1258,Property Crimes
+1259,Property Crimes
+1260,Property Crimes
+1261,Property Crimes
+1262,Violent Crimes
+1263,Property Crimes
+1264,Violent Crimes
+1265,Crimes against Persons
+1266,Property Crimes
+1267,Violent Crimes
+1268,Property Crimes
+1269,Property Crimes
+1270,Property Crimes
+1271,Property Crimes
+1272,Property Crimes
+1273,Property Crimes
+1274,Property Crimes
+1275,Property Crimes
+1276,Violent Crimes
+1277,Violent Crimes
+1278,Violent Crimes
+1279,Property Crimes
+1280,Property Crimes
+1281,Property Crimes
+1282,Property Crimes
+1283,Violent Crimes
+1284,Violent Crimes
+1285,Property Crimes
+1286,Property Crimes
+1287,Property Crimes
+1288,Property Crimes
+1289,Property Crimes
+1290,Property Crimes
+1291,Violent Crimes
+1292,Violent Crimes
+1293,Violent Crimes
+1294,Violent Crimes
+1295,Violent Crimes
+1296,Property Crimes
+1297,Fraud and White-Collar Crimes
+1298,Property Crimes
+1299,Property Crimes
+1300,Property Crimes
+1301,Violent Crimes
+1302,Property Crimes
+1303,Property Crimes
+1304,Property Crimes
+1305,Property Crimes
+1306,Property Crimes
+1307,Property Crimes
+1308,Property Crimes
+1309,Crimes against Public Order
+1310,Property Crimes
+1311,Property Crimes
+1312,Property Crimes
+1313,Property Crimes
+1314,Property Crimes
+1315,Property Crimes
+1316,Violent Crimes
+1317,Fraud and White-Collar Crimes
+1318,Violent Crimes
+1319,Property Crimes
+1320,Property Crimes
+1321,Property Crimes
+1322,Violent Crimes
+1323,Property Crimes
+1324,Violent Crimes
+1325,Property Crimes
+1326,Property Crimes
+1327,Property Crimes
+1328,Property Crimes
+1329,Property Crimes
+1330,Property Crimes
+1331,Violent Crimes
+1332,Property Crimes
+1333,Violent Crimes
+1334,Property Crimes
+1335,Fraud and White-Collar Crimes
+1336,Property Crimes
+1337,Property Crimes
+1338,Fraud and White-Collar Crimes
+1339,Property Crimes
+1340,Property Crimes
+1341,Fraud and White-Collar Crimes
+1342,Property Crimes
+1343,Violent Crimes
+1344,Property Crimes
+1345,Property Crimes
+1346,Violent Crimes
+1347,Violent Crimes
+1348,Violent Crimes
+1349,Property Crimes
+1350,Property Crimes
+1351,Property Crimes
+1352,Property Crimes
+1353,Violent Crimes
+1354,Property Crimes
+1355,Violent Crimes
+1356,Violent Crimes
+1357,Property Crimes
+1358,Property Crimes
+1359,Property Crimes
+1360,Property Crimes
+1361,Property Crimes
+1362,Property Crimes
+1363,Property Crimes
+1364,Property Crimes
+1365,Fraud and White-Collar Crimes
+1366,Violent Crimes
+1367,Property Crimes
+1368,Property Crimes
+1369,Violent Crimes
+1370,Property Crimes
+1371,Property Crimes
+1372,Violent Crimes
+1373,Property Crimes
+1374,Violent Crimes
+1375,Property Crimes
+1376,Fraud and White-Collar Crimes
+1377,Fraud and White-Collar Crimes
+1378,Property Crimes
+1379,Violent Crimes
+1380,Crimes against Public Order
+1381,Property Crimes
+1382,Property Crimes
+1383,Property Crimes
+1384,Violent Crimes
+1385,Violent Crimes
+1386,Violent Crimes
+1387,Property Crimes
+1388,Violent Crimes
+1389,Fraud and White-Collar Crimes
+1390,Property Crimes
+1391,Property Crimes
+1392,Property Crimes
+1393,Property Crimes
+1394,Property Crimes
+1395,Violent Crimes
+1396,Property Crimes
+1397,Violent Crimes
+1398,Fraud and White-Collar Crimes
+1399,Violent Crimes
+1400,Violent Crimes
+1401,Property Crimes
+1402,Violent Crimes
+1403,Violent Crimes
+1404,Property Crimes
+1405,Property Crimes
+1406,Violent Crimes
+1407,Property Crimes
+1408,Property Crimes
+1409,Property Crimes
+1410,Violent Crimes
+1411,Property Crimes
+1412,Fraud and White-Collar Crimes
+1413,Violent Crimes
+1414,Property Crimes
+1415,Property Crimes
+1416,Violent Crimes
+1417,Violent Crimes
+1418,Property Crimes
+1419,Property Crimes
+1420,Property Crimes
+1421,Property Crimes
+1422,Crimes against Public Order
+1423,Violent Crimes
+1424,Property Crimes
+1425,Property Crimes
+1426,Property Crimes
+1427,Crimes against Public Order
+1428,Violent Crimes
+1429,Property Crimes
+1430,Violent Crimes
+1431,Property Crimes
+1432,Property Crimes
+1433,Violent Crimes
+1434,Property Crimes
+1435,Crimes against Public Order
+1436,Violent Crimes
+1437,Property Crimes
+1438,Property Crimes
+1439,Property Crimes
+1440,Property Crimes
+1441,Property Crimes
+1442,Crimes against Persons
+1443,Violent Crimes
+1444,Violent Crimes
+1445,Property Crimes
+1446,Violent Crimes
+1447,Violent Crimes
+1448,Violent Crimes
+1449,Property Crimes
+1450,Property Crimes
+1451,Property Crimes
+1452,Crimes against Persons
+1453,Property Crimes
+1454,Violent Crimes
+1455,Violent Crimes
+1456,Violent Crimes
+1457,Property Crimes
+1458,Property Crimes
+1459,Property Crimes
+1460,Property Crimes
+1461,Property Crimes
+1462,Property Crimes
+1463,Property Crimes
+1464,Property Crimes
+1465,Violent Crimes
+1466,Property Crimes
+1467,Property Crimes
+1468,Property Crimes
+1469,Violent Crimes
+1470,Property Crimes
+1471,Violent Crimes
+1472,Property Crimes
+1473,Crimes against Public Order
+1474,Property Crimes
+1475,Property Crimes
+1476,Property Crimes
+1477,Property Crimes
+1478,Property Crimes
+1479,Violent Crimes
+1480,Violent Crimes
+1481,Property Crimes
+1482,Property Crimes
+1483,Property Crimes
+1484,Property Crimes
+1485,Fraud and White-Collar Crimes
+1486,Property Crimes
+1487,Property Crimes
+1488,Violent Crimes
+1489,Property Crimes
+1490,Violent Crimes
+1491,Property Crimes
+1492,Violent Crimes
+1493,Property Crimes
+1494,Violent Crimes
+1495,Violent Crimes
+1496,Fraud and White-Collar Crimes
+1497,Property Crimes
+1498,Violent Crimes
+1499,Property Crimes
+1500,Property Crimes
+1501,Property Crimes
+1502,Property Crimes
+1503,Property Crimes
+1504,Violent Crimes
+1505,Violent Crimes
+1506,Violent Crimes
+1507,Property Crimes
+1508,Property Crimes
+1509,Property Crimes
+1510,Violent Crimes
+1511,Violent Crimes
+1512,Property Crimes
+1513,Property Crimes
+1514,Property Crimes
+1515,Violent Crimes
+1516,Property Crimes
+1517,Property Crimes
+1518,Violent Crimes
+1519,Property Crimes
+1520,Property Crimes
+1521,Property Crimes
+1522,Property Crimes
+1523,Property Crimes
+1524,Property Crimes
+1525,Property Crimes
+1526,Property Crimes
+1527,Property Crimes
+1528,Property Crimes
+1529,Property Crimes
+1530,Property Crimes
+1531,Property Crimes
+1532,Property Crimes
+1533,Property Crimes
+1534,Fraud and White-Collar Crimes
+1535,Violent Crimes
+1536,Violent Crimes
+1537,Property Crimes
+1538,Property Crimes
+1539,Fraud and White-Collar Crimes
+1540,Violent Crimes
+1541,Violent Crimes
+1542,Property Crimes
+1543,Fraud and White-Collar Crimes
+1544,Violent Crimes
+1545,Property Crimes
+1546,Property Crimes
+1547,Property Crimes
+1548,Property Crimes
+1549,Property Crimes
+1550,Violent Crimes
+1551,Property Crimes
+1552,Property Crimes
+1553,Property Crimes
+1554,Property Crimes
+1555,Violent Crimes
+1556,Property Crimes
+1557,Fraud and White-Collar Crimes
+1558,Property Crimes
+1559,Property Crimes
+1560,Violent Crimes
+1561,Violent Crimes
+1562,Violent Crimes
+1563,Property Crimes
+1564,Property Crimes
+1565,Property Crimes
+1566,Property Crimes
+1567,Property Crimes
+1568,Violent Crimes
+1569,Property Crimes
+1570,Property Crimes
+1571,Violent Crimes
+1572,Property Crimes
+1573,Property Crimes
+1574,Property Crimes
+1575,Violent Crimes
+1576,Property Crimes
+1577,Property Crimes
+1578,Property Crimes
+1579,Property Crimes
+1580,Property Crimes
+1581,Property Crimes
+1582,Property Crimes
+1583,Fraud and White-Collar Crimes
+1584,Property Crimes
+1585,Property Crimes
+1586,Property Crimes
+1587,Property Crimes
+1588,Property Crimes
+1589,Violent Crimes
+1590,Property Crimes
+1591,Property Crimes
+1592,Property Crimes
+1593,Violent Crimes
+1594,Property Crimes
+1595,Crimes against Public Order
+1596,Property Crimes
+1597,Property Crimes
+1598,Fraud and White-Collar Crimes
+1599,Property Crimes
+1600,Property Crimes
+1601,Violent Crimes
+1602,Property Crimes
+1603,Property Crimes
+1604,Property Crimes
+1605,Violent Crimes
+1606,Property Crimes
+1607,Violent Crimes
+1608,Fraud and White-Collar Crimes
+1609,Property Crimes
+1610,Property Crimes
+1611,Violent Crimes
+1612,Violent Crimes
+1613,Property Crimes
+1614,Property Crimes
+1615,Property Crimes
+1616,Property Crimes
+1617,Violent Crimes
+1618,Property Crimes
+1619,Crimes against Public Order
+1620,Property Crimes
+1621,Property Crimes
+1622,Property Crimes
+1623,Violent Crimes
+1624,Property Crimes
+1625,Property Crimes
+1626,Fraud and White-Collar Crimes
+1627,Property Crimes
+1628,Property Crimes
+1629,Property Crimes
+1630,Property Crimes
+1631,Property Crimes
+1632,Property Crimes
+1633,Property Crimes
+1634,Property Crimes
+1635,Fraud and White-Collar Crimes
+1636,Violent Crimes
+1637,Violent Crimes
+1638,Property Crimes
+1639,Property Crimes
+1640,Property Crimes
+1641,Fraud and White-Collar Crimes
+1642,Property Crimes
+1643,Violent Crimes
+1644,Property Crimes
+1645,Violent Crimes
+1646,Property Crimes
+1647,Property Crimes
+1648,Property Crimes
+1649,Other Crimes
+1650,Violent Crimes
+1651,Property Crimes
+1652,Property Crimes
+1653,Property Crimes
+1654,Property Crimes
+1655,Property Crimes
+1656,Property Crimes
+1657,Property Crimes
+1658,Violent Crimes
+1659,Property Crimes
+1660,Violent Crimes
+1661,Fraud and White-Collar Crimes
+1662,Property Crimes
+1663,Property Crimes
+1664,Property Crimes
+1665,Property Crimes
+1666,Property Crimes
+1667,Property Crimes
+1668,Property Crimes
+1669,Property Crimes
+1670,Property Crimes
+1671,Property Crimes
+1672,Property Crimes
+1673,Fraud and White-Collar Crimes
+1674,Violent Crimes
+1675,Property Crimes
+1676,Property Crimes
+1677,Property Crimes
+1678,Property Crimes
+1679,Fraud and White-Collar Crimes
+1680,Property Crimes
+1681,Violent Crimes
+1682,Property Crimes
+1683,Property Crimes
+1684,Property Crimes
+1685,Crimes against Public Order
+1686,Property Crimes
+1687,Fraud and White-Collar Crimes
+1688,Violent Crimes
+1689,Property Crimes
+1690,Property Crimes
+1691,Crimes against Persons
+1692,Property Crimes
+1693,Property Crimes
+1694,Property Crimes
+1695,Property Crimes
+1696,Property Crimes
+1697,Fraud and White-Collar Crimes
+1698,Violent Crimes
+1699,Fraud and White-Collar Crimes
+1700,Property Crimes
+1701,Property Crimes
+1702,Property Crimes
+1703,Property Crimes
+1704,Property Crimes
+1705,Violent Crimes
+1706,Property Crimes
+1707,Violent Crimes
+1708,Violent Crimes
+1709,Property Crimes
+1710,Property Crimes
+1711,Property Crimes
+1712,Violent Crimes
+1713,Fraud and White-Collar Crimes
+1714,Property Crimes
+1715,Violent Crimes
+1716,Violent Crimes
+1717,Violent Crimes
+1718,Violent Crimes
+1719,Violent Crimes
+1720,Property Crimes
+1721,Property Crimes
+1722,Fraud and White-Collar Crimes
+1723,Property Crimes
+1724,Property Crimes
+1725,Property Crimes
+1726,Violent Crimes
+1727,Property Crimes
+1728,Property Crimes
+1729,Fraud and White-Collar Crimes
+1730,Property Crimes
+1731,Property Crimes
+1732,Property Crimes
+1733,Property Crimes
+1734,Property Crimes
+1735,Property Crimes
+1736,Property Crimes
+1737,Property Crimes
+1738,Violent Crimes
+1739,Property Crimes
+1740,Property Crimes
+1741,Property Crimes
+1742,Violent Crimes
+1743,Fraud and White-Collar Crimes
+1744,Violent Crimes
+1745,Fraud and White-Collar Crimes
+1746,Property Crimes
+1747,Violent Crimes
+1748,Property Crimes
+1749,Property Crimes
+1750,Property Crimes
+1751,Violent Crimes
+1752,Violent Crimes
+1753,Violent Crimes
+1754,Violent Crimes
+1755,Property Crimes
+1756,Property Crimes
+1757,Violent Crimes
+1758,Fraud and White-Collar Crimes
+1759,Property Crimes
+1760,Violent Crimes
+1761,Property Crimes
+1762,Property Crimes
+1763,Property Crimes
+1764,Violent Crimes
+1765,Violent Crimes
+1766,Violent Crimes
+1767,Property Crimes
+1768,Property Crimes
+1769,Property Crimes
+1770,Fraud and White-Collar Crimes
+1771,Violent Crimes
+1772,Property Crimes
+1773,Property Crimes
+1774,Fraud and White-Collar Crimes
+1775,Violent Crimes
+1776,Violent Crimes
+1777,Property Crimes
+1778,Property Crimes
+1779,Property Crimes
+1780,Violent Crimes
+1781,Property Crimes
+1782,Property Crimes
+1783,Property Crimes
+1784,Property Crimes
+1785,Property Crimes
+1786,Property Crimes
+1787,Violent Crimes
+1788,Property Crimes
+1789,Property Crimes
+1790,Property Crimes
+1791,Property Crimes
+1792,Property Crimes
+1793,Violent Crimes
+1794,Fraud and White-Collar Crimes
+1795,Property Crimes
+1796,Violent Crimes
+1797,Property Crimes
+1798,Property Crimes
+1799,Fraud and White-Collar Crimes
+1800,Property Crimes
+1801,Violent Crimes
+1802,Property Crimes
+1803,Property Crimes
+1804,Property Crimes
+1805,Violent Crimes
+1806,Violent Crimes
+1807,Property Crimes
+1808,Violent Crimes
+1809,Property Crimes
+1810,Property Crimes
+1811,Fraud and White-Collar Crimes
+1812,Property Crimes
+1813,Violent Crimes
+1814,Violent Crimes
+1815,Property Crimes
+1816,Property Crimes
+1817,Violent Crimes
+1818,Property Crimes
+1819,Fraud and White-Collar Crimes
+1820,Property Crimes
+1821,Crimes against Public Order
+1822,Violent Crimes
+1823,Violent Crimes
+1824,Property Crimes
+1825,Property Crimes
+1826,Violent Crimes
+1827,Property Crimes
+1828,Property Crimes
+1829,Property Crimes
+1830,Violent Crimes
+1831,Property Crimes
+1832,Violent Crimes
+1833,Violent Crimes
+1834,Fraud and White-Collar Crimes
+1835,Fraud and White-Collar Crimes
+1836,Property Crimes
+1837,Violent Crimes
+1838,Property Crimes
+1839,Fraud and White-Collar Crimes
+1840,Violent Crimes
+1841,Crimes against Public Order
+1842,Property Crimes
+1843,Property Crimes
+1844,Property Crimes
+1845,Property Crimes
+1846,Property Crimes
+1847,Violent Crimes
+1848,Property Crimes
+1849,Property Crimes
+1850,Property Crimes
+1851,Property Crimes
+1852,Property Crimes
+1853,Violent Crimes
+1854,Violent Crimes
+1855,Violent Crimes
+1856,Property Crimes
+1857,Property Crimes
+1858,Property Crimes
+1859,Property Crimes
+1860,Property Crimes
+1861,Fraud and White-Collar Crimes
+1862,Violent Crimes
+1863,Crimes against Persons
+1864,Property Crimes
+1865,Property Crimes
+1866,Property Crimes
+1867,Property Crimes
+1868,Fraud and White-Collar Crimes
+1869,Crimes against Public Order
+1870,Property Crimes
+1871,Property Crimes
+1872,Crimes against Public Order
+1873,Property Crimes
+1874,Property Crimes
+1875,Fraud and White-Collar Crimes
+1876,Violent Crimes
+1877,Property Crimes
+1878,Violent Crimes
+1879,Violent Crimes
+1880,Property Crimes
+1881,Property Crimes
+1882,Violent Crimes
+1883,Violent Crimes
+1884,Property Crimes
+1885,Property Crimes
+1886,Property Crimes
+1887,Property Crimes
+1888,Property Crimes
+1889,Property Crimes
+1890,Fraud and White-Collar Crimes
+1891,Property Crimes
+1892,Property Crimes
+1893,Property Crimes
+1894,Property Crimes
+1895,Violent Crimes
+1896,Property Crimes
+1897,Violent Crimes
+1898,Property Crimes
+1899,Crimes against Public Order
+1900,Property Crimes
+1901,Property Crimes
+1902,Property Crimes
+1903,Violent Crimes
+1904,Violent Crimes
+1905,Property Crimes
+1906,Fraud and White-Collar Crimes
+1907,Property Crimes
+1908,Property Crimes
+1909,Property Crimes
+1910,Violent Crimes
+1911,Property Crimes
+1912,Crimes against Public Order
+1913,Property Crimes
+1914,Property Crimes
+1915,Violent Crimes
+1916,Property Crimes
+1917,Violent Crimes
+1918,Property Crimes
+1919,Property Crimes
+1920,Property Crimes
+1921,Violent Crimes
+1922,Property Crimes
+1923,Property Crimes
+1924,Violent Crimes
+1925,Violent Crimes
+1926,Property Crimes
+1927,Property Crimes
+1928,Property Crimes
+1929,Property Crimes
+1930,Property Crimes
+1931,Property Crimes
+1932,Property Crimes
+1933,Property Crimes
+1934,Property Crimes
+1935,Property Crimes
+1936,Property Crimes
+1937,Violent Crimes
+1938,Property Crimes
+1939,Property Crimes
+1940,Violent Crimes
+1941,Violent Crimes
+1942,Violent Crimes
+1943,Property Crimes
+1944,Violent Crimes
+1945,Property Crimes
+1946,Violent Crimes
+1947,Property Crimes
+1948,Fraud and White-Collar Crimes
+1949,Fraud and White-Collar Crimes
+1950,Property Crimes
+1951,Crimes against Public Order
+1952,Fraud and White-Collar Crimes
+1953,Property Crimes
+1954,Property Crimes
+1955,Violent Crimes
+1956,Violent Crimes
+1957,Violent Crimes
+1958,Violent Crimes
+1959,Fraud and White-Collar Crimes
+1960,Property Crimes
+1961,Property Crimes
+1962,Property Crimes
+1963,Property Crimes
+1964,Fraud and White-Collar Crimes
+1965,Fraud and White-Collar Crimes
+1966,Fraud and White-Collar Crimes
+1967,Property Crimes
+1968,Property Crimes
+1969,Violent Crimes
+1970,Property Crimes
+1971,Violent Crimes
+1972,Property Crimes
+1973,Property Crimes
+1974,Property Crimes
+1975,Violent Crimes
+1976,Property Crimes
+1977,Property Crimes
+1978,Property Crimes
+1979,Violent Crimes
+1980,Violent Crimes
+1981,Property Crimes
+1982,Property Crimes
+1983,Property Crimes
+1984,Property Crimes
+1985,Property Crimes
+1986,Violent Crimes
+1987,Property Crimes
+1988,Violent Crimes
+1989,Property Crimes
+1990,Property Crimes
+1991,Violent Crimes
+1992,Property Crimes
+1993,Violent Crimes
+1994,Property Crimes
+1995,Property Crimes
+1996,Violent Crimes
+1997,Property Crimes
+1998,Property Crimes
+1999,Property Crimes
+2000,Property Crimes
+2001,Violent Crimes
+2002,Violent Crimes
+2003,Fraud and White-Collar Crimes
+2004,Property Crimes
+2005,Crimes against Public Order
+2006,Property Crimes
+2007,Property Crimes
+2008,Fraud and White-Collar Crimes
+2009,Property Crimes
+2010,Property Crimes
+2011,Crimes against Public Order
+2012,Property Crimes
+2013,Property Crimes
+2014,Property Crimes
+2015,Violent Crimes
+2016,Property Crimes
+2017,Violent Crimes
+2018,Property Crimes
+2019,Violent Crimes
+2020,Property Crimes
+2021,Fraud and White-Collar Crimes
+2022,Property Crimes
+2023,Violent Crimes
+2024,Violent Crimes
+2025,Violent Crimes
+2026,Property Crimes
+2027,Property Crimes
+2028,Violent Crimes
+2029,Property Crimes
+2030,Property Crimes
+2031,Property Crimes
+2032,Property Crimes
+2033,Property Crimes
+2034,Property Crimes
+2035,Property Crimes
+2036,Property Crimes
+2037,Crimes against Public Order
+2038,Fraud and White-Collar Crimes
+2039,Property Crimes
+2040,Violent Crimes
+2041,Violent Crimes
+2042,Property Crimes
+2043,Violent Crimes
+2044,Violent Crimes
+2045,Violent Crimes
+2046,Violent Crimes
+2047,Property Crimes
+2048,Violent Crimes
+2049,Property Crimes
+2050,Property Crimes
+2051,Property Crimes
+2052,Violent Crimes
+2053,Property Crimes
+2054,Property Crimes
+2055,Property Crimes
+2056,Violent Crimes
+2057,Violent Crimes
+2058,Crimes against Public Order
+2059,Violent Crimes
+2060,Fraud and White-Collar Crimes
+2061,Fraud and White-Collar Crimes
+2062,Violent Crimes
+2063,Property Crimes
+2064,Property Crimes
+2065,Property Crimes
+2066,Violent Crimes
+2067,Fraud and White-Collar Crimes
+2068,Property Crimes
+2069,Property Crimes
+2070,Fraud and White-Collar Crimes
+2071,Property Crimes
+2072,Property Crimes
+2073,Property Crimes
+2074,Property Crimes
+2075,Property Crimes
+2076,Property Crimes
+2077,Property Crimes
+2078,Violent Crimes
+2079,Violent Crimes
+2080,Property Crimes
+2081,Property Crimes
+2082,Property Crimes
+2083,Property Crimes
+2084,Property Crimes
+2085,Property Crimes
+2086,Property Crimes
+2087,Property Crimes
+2088,Property Crimes
+2089,Property Crimes
+2090,Property Crimes
+2091,Violent Crimes
+2092,Property Crimes
+2093,Property Crimes
+2094,Property Crimes
+2095,Violent Crimes
+2096,Fraud and White-Collar Crimes
+2097,Property Crimes
+2098,Fraud and White-Collar Crimes
+2099,Property Crimes
+2100,Violent Crimes
+2101,Property Crimes
+2102,Property Crimes
+2103,Property Crimes
+2104,Property Crimes
+2105,Violent Crimes
+2106,Violent Crimes
+2107,Fraud and White-Collar Crimes
+2108,Property Crimes
+2109,Property Crimes
+2110,Crimes against Public Order
+2111,Property Crimes
+2112,Violent Crimes
+2113,Property Crimes
+2114,Property Crimes
+2115,Property Crimes
+2116,Violent Crimes
+2117,Property Crimes
+2118,Property Crimes
+2119,Fraud and White-Collar Crimes
+2120,Crimes against Public Order
+2121,Fraud and White-Collar Crimes
+2122,Property Crimes
+2123,Property Crimes
+2124,Violent Crimes
+2125,Property Crimes
+2126,Property Crimes
+2127,Violent Crimes
+2128,Fraud and White-Collar Crimes
+2129,Property Crimes
+2130,Fraud and White-Collar Crimes
+2131,Violent Crimes
+2132,Property Crimes
+2133,Violent Crimes
+2134,Property Crimes
+2135,Property Crimes
+2136,Property Crimes
+2137,Property Crimes
+2138,Property Crimes
+2139,Property Crimes
+2140,Violent Crimes
+2141,Violent Crimes
+2142,Property Crimes
+2143,Property Crimes
+2144,Property Crimes
+2145,Property Crimes
+2146,Fraud and White-Collar Crimes
+2147,Property Crimes
+2148,Property Crimes
+2149,Property Crimes
+2150,Property Crimes
+2151,Violent Crimes
+2152,Property Crimes
+2153,Property Crimes
+2154,Violent Crimes
+2155,Violent Crimes
+2156,Property Crimes
+2157,Violent Crimes
+2158,Crimes against Public Order
+2159,Fraud and White-Collar Crimes
+2160,Property Crimes
+2161,Violent Crimes
+2162,Property Crimes
+2163,Property Crimes
+2164,Property Crimes
+2165,Violent Crimes
+2166,Violent Crimes
+2167,Property Crimes
+2168,Property Crimes
+2169,Violent Crimes
+2170,Property Crimes
+2171,Violent Crimes
+2172,Property Crimes
+2173,Property Crimes
+2174,Property Crimes
+2175,Property Crimes
+2176,Property Crimes
+2177,Property Crimes
+2178,Property Crimes
+2179,Property Crimes
+2180,Fraud and White-Collar Crimes
+2181,Property Crimes
+2182,Fraud and White-Collar Crimes
+2183,Property Crimes
+2184,Property Crimes
+2185,Property Crimes
+2186,Property Crimes
+2187,Fraud and White-Collar Crimes
+2188,Property Crimes
+2189,Property Crimes
+2190,Property Crimes
+2191,Crimes against Public Order
+2192,Property Crimes
+2193,Violent Crimes
+2194,Property Crimes
+2195,Property Crimes
+2196,Property Crimes
+2197,Property Crimes
+2198,Violent Crimes
+2199,Property Crimes
+2200,Violent Crimes
+2201,Property Crimes
+2202,Property Crimes
+2203,Property Crimes
+2204,Violent Crimes
+2205,Violent Crimes
+2206,Violent Crimes
+2207,Property Crimes
+2208,Property Crimes
+2209,Property Crimes
+2210,Violent Crimes
+2211,Violent Crimes
+2212,Violent Crimes
+2213,Violent Crimes
+2214,Property Crimes
+2215,Property Crimes
+2216,Fraud and White-Collar Crimes
+2217,Property Crimes
+2218,Violent Crimes
+2219,Crimes against Public Order
+2220,Property Crimes
+2221,Property Crimes
+2222,Property Crimes
+2223,Property Crimes
+2224,Property Crimes
+2225,Violent Crimes
+2226,Violent Crimes
+2227,Property Crimes
+2228,Property Crimes
+2229,Property Crimes
+2230,Violent Crimes
+2231,Property Crimes
+2232,Crimes against Public Order
+2233,Property Crimes
+2234,Property Crimes
+2235,Violent Crimes
+2236,Property Crimes
+2237,Property Crimes
+2238,Property Crimes
+2239,Property Crimes
+2240,Property Crimes
+2241,Property Crimes
+2242,Fraud and White-Collar Crimes
+2243,Violent Crimes
+2244,Fraud and White-Collar Crimes
+2245,Property Crimes
+2246,Property Crimes
+2247,Violent Crimes
+2248,Fraud and White-Collar Crimes
+2249,Property Crimes
+2250,Property Crimes
+2251,Violent Crimes
+2252,Property Crimes
+2253,Property Crimes
+2254,Property Crimes
+2255,Property Crimes
+2256,Violent Crimes
+2257,Property Crimes
+2258,Property Crimes
+2259,Property Crimes
+2260,Fraud and White-Collar Crimes
+2261,Violent Crimes
+2262,Property Crimes
+2263,Property Crimes
+2264,Violent Crimes
+2265,Property Crimes
+2266,Property Crimes
+2267,Violent Crimes
+2268,Property Crimes
+2269,Violent Crimes
+2270,Violent Crimes
+2271,Property Crimes
+2272,Property Crimes
+2273,Violent Crimes
+2274,Property Crimes
+2275,Property Crimes
+2276,Property Crimes
+2277,Property Crimes
+2278,Property Crimes
+2279,Crimes against Public Order
+2280,Violent Crimes
+2281,Property Crimes
+2282,Property Crimes
+2283,Violent Crimes
+2284,Violent Crimes
+2285,Property Crimes
+2286,Property Crimes
+2287,Property Crimes
+2288,Property Crimes
+2289,Property Crimes
+2290,Property Crimes
+2291,Property Crimes
+2292,Violent Crimes
+2293,Property Crimes
+2294,Property Crimes
+2295,Property Crimes
+2296,Property Crimes
+2297,Violent Crimes
+2298,Property Crimes
+2299,Fraud and White-Collar Crimes
+2300,Property Crimes
+2301,Property Crimes
+2302,Property Crimes
+2303,Property Crimes
+2304,Property Crimes
+2305,Property Crimes
+2306,Property Crimes
+2307,Property Crimes
+2308,Property Crimes
+2309,Property Crimes
+2310,Property Crimes
+2311,Property Crimes
+2312,Property Crimes
+2313,Violent Crimes
+2314,Property Crimes
+2315,Crimes against Public Order
+2316,Property Crimes
+2317,Property Crimes
+2318,Violent Crimes
+2319,Property Crimes
+2320,Violent Crimes
+2321,Property Crimes
+2322,Violent Crimes
+2323,Property Crimes
+2324,Property Crimes
+2325,Property Crimes
+2326,Property Crimes
+2327,Property Crimes
+2328,Violent Crimes
+2329,Property Crimes
+2330,Violent Crimes
+2331,Property Crimes
+2332,Fraud and White-Collar Crimes
+2333,Violent Crimes
+2334,Property Crimes
+2335,Property Crimes
+2336,Violent Crimes
+2337,Fraud and White-Collar Crimes
+2338,Violent Crimes
+2339,Fraud and White-Collar Crimes
+2340,Violent Crimes
+2341,Property Crimes
+2342,Property Crimes
+2343,Violent Crimes
+2344,Fraud and White-Collar Crimes
+2345,Violent Crimes
+2346,Property Crimes
+2347,Property Crimes
+2348,Property Crimes
+2349,Violent Crimes
+2350,Property Crimes
+2351,Violent Crimes
+2352,Property Crimes
+2353,Property Crimes
+2354,Property Crimes
+2355,Property Crimes
+2356,Property Crimes
+2357,Violent Crimes
+2358,Property Crimes
+2359,Violent Crimes
+2360,Property Crimes
+2361,Property Crimes
+2362,Property Crimes
+2363,Violent Crimes
+2364,Property Crimes
+2365,Property Crimes
+2366,Violent Crimes
+2367,Property Crimes
+2368,Violent Crimes
+2369,Violent Crimes
+2370,Violent Crimes
+2371,Violent Crimes
+2372,Violent Crimes
+2373,Fraud and White-Collar Crimes
+2374,Property Crimes
+2375,Property Crimes
+2376,Fraud and White-Collar Crimes
+2377,Property Crimes
+2378,Property Crimes
+2379,Property Crimes
+2380,Fraud and White-Collar Crimes
+2381,Property Crimes
+2382,Property Crimes
+2383,Property Crimes
+2384,Property Crimes
+2385,Fraud and White-Collar Crimes
+2386,Violent Crimes
+2387,Property Crimes
+2388,Fraud and White-Collar Crimes
+2389,Property Crimes
+2390,Violent Crimes
+2391,Property Crimes
+2392,Violent Crimes
+2393,Fraud and White-Collar Crimes
+2394,Property Crimes
+2395,Crimes against Public Order
+2396,Property Crimes
+2397,Property Crimes
+2398,Property Crimes
+2399,Violent Crimes
+2400,Property Crimes
+2401,Property Crimes
+2402,Property Crimes
+2403,Property Crimes
+2404,Fraud and White-Collar Crimes
+2405,Violent Crimes
+2406,Property Crimes
+2407,Violent Crimes
+2408,Violent Crimes
+2409,Property Crimes
+2410,Property Crimes
+2411,Violent Crimes
+2412,Violent Crimes
+2413,Violent Crimes
+2414,Fraud and White-Collar Crimes
+2415,Property Crimes
+2416,Property Crimes
+2417,Property Crimes
+2418,Violent Crimes
+2419,Violent Crimes
+2420,Property Crimes
+2421,Property Crimes
+2422,Property Crimes
+2423,Property Crimes
+2424,Violent Crimes
+2425,Violent Crimes
+2426,Property Crimes
+2427,Property Crimes
+2428,Fraud and White-Collar Crimes
+2429,Violent Crimes
+2430,Violent Crimes
+2431,Property Crimes
+2432,Violent Crimes
+2433,Violent Crimes
+2434,Property Crimes
+2435,Property Crimes
+2436,Property Crimes
+2437,Violent Crimes
+2438,Property Crimes
+2439,Property Crimes
+2440,Violent Crimes
+2441,Property Crimes
+2442,Violent Crimes
+2443,Fraud and White-Collar Crimes
+2444,Property Crimes
+2445,Crimes against Public Order
+2446,Property Crimes
+2447,Property Crimes
+2448,Property Crimes
+2449,Property Crimes
+2450,Property Crimes
+2451,Property Crimes
+2452,Violent Crimes
+2453,Property Crimes
+2454,Property Crimes
+2455,Other Crimes
+2456,Fraud and White-Collar Crimes
+2457,Property Crimes
+2458,Property Crimes
+2459,Property Crimes
+2460,Property Crimes
+2461,Violent Crimes
+2462,Fraud and White-Collar Crimes
+2463,Violent Crimes
+2464,Fraud and White-Collar Crimes
+2465,Property Crimes
+2466,Property Crimes
+2467,Property Crimes
+2468,Violent Crimes
+2469,Violent Crimes
+2470,Violent Crimes
+2471,Property Crimes
+2472,Property Crimes
+2473,Fraud and White-Collar Crimes
+2474,Property Crimes
+2475,Property Crimes
+2476,Property Crimes
+2477,Property Crimes
+2478,Property Crimes
+2479,Violent Crimes
+2480,Fraud and White-Collar Crimes
+2481,Property Crimes
+2482,Property Crimes
+2483,Violent Crimes
+2484,Violent Crimes
+2485,Property Crimes
+2486,Violent Crimes
+2487,Violent Crimes
+2488,Property Crimes
+2489,Violent Crimes
+2490,Property Crimes
+2491,Violent Crimes
+2492,Property Crimes
+2493,Property Crimes
+2494,Property Crimes
+2495,Property Crimes
+2496,Property Crimes
+2497,Violent Crimes
+2498,Crimes against Public Order
+2499,Property Crimes
+2500,Violent Crimes
+2501,Crimes against Persons
+2502,Property Crimes
+2503,Property Crimes
+2504,Property Crimes
+2505,Property Crimes
+2506,Crimes against Public Order
+2507,Violent Crimes
+2508,Fraud and White-Collar Crimes
+2509,Property Crimes
+2510,Property Crimes
+2511,Violent Crimes
+2512,Violent Crimes
+2513,Property Crimes
+2514,Fraud and White-Collar Crimes
+2515,Property Crimes
+2516,Property Crimes
+2517,Violent Crimes
+2518,Property Crimes
+2519,Property Crimes
+2520,Violent Crimes
+2521,Property Crimes
+2522,Property Crimes
+2523,Violent Crimes
+2524,Fraud and White-Collar Crimes
+2525,Violent Crimes
+2526,Violent Crimes
+2527,Property Crimes
+2528,Property Crimes
+2529,Violent Crimes
+2530,Property Crimes
+2531,Property Crimes
+2532,Property Crimes
+2533,Property Crimes
+2534,Violent Crimes
+2535,Fraud and White-Collar Crimes
+2536,Property Crimes
+2537,Property Crimes
+2538,Property Crimes
+2539,Property Crimes
+2540,Property Crimes
+2541,Property Crimes
+2542,Property Crimes
+2543,Property Crimes
+2544,Violent Crimes
+2545,Property Crimes
+2546,Property Crimes
+2547,Property Crimes
+2548,Property Crimes
+2549,Property Crimes
+2550,Property Crimes
+2551,Violent Crimes
+2552,Fraud and White-Collar Crimes
+2553,Property Crimes
+2554,Property Crimes
+2555,Violent Crimes
+2556,Fraud and White-Collar Crimes
+2557,Property Crimes
+2558,Fraud and White-Collar Crimes
+2559,Violent Crimes
+2560,Property Crimes
+2561,Property Crimes
+2562,Property Crimes
+2563,Violent Crimes
+2564,Violent Crimes
+2565,Property Crimes
+2566,Property Crimes
+2567,Property Crimes
+2568,Property Crimes
+2569,Property Crimes
+2570,Violent Crimes
+2571,Violent Crimes
+2572,Violent Crimes
+2573,Fraud and White-Collar Crimes
+2574,Violent Crimes
+2575,Violent Crimes
+2576,Property Crimes
+2577,Violent Crimes
+2578,Property Crimes
+2579,Property Crimes
+2580,Property Crimes
+2581,Property Crimes
+2582,Violent Crimes
+2583,Violent Crimes
+2584,Property Crimes
+2585,Property Crimes
+2586,Property Crimes
+2587,Violent Crimes
+2588,Property Crimes
+2589,Property Crimes
+2590,Property Crimes
+2591,Property Crimes
+2592,Violent Crimes
+2593,Property Crimes
+2594,Property Crimes
+2595,Property Crimes
+2596,Property Crimes
+2597,Property Crimes
+2598,Property Crimes
+2599,Property Crimes
+2600,Property Crimes
+2601,Property Crimes
+2602,Property Crimes
+2603,Violent Crimes
+2604,Violent Crimes
+2605,Property Crimes
+2606,Property Crimes
+2607,Violent Crimes
+2608,Property Crimes
+2609,Property Crimes
+2610,Violent Crimes
+2611,Property Crimes
+2612,Property Crimes
+2613,Fraud and White-Collar Crimes
+2614,Fraud and White-Collar Crimes
+2615,Property Crimes
+2616,Property Crimes
+2617,Violent Crimes
+2618,Property Crimes
+2619,Property Crimes
+2620,Property Crimes
+2621,Crimes against Public Order
+2622,Property Crimes
+2623,Property Crimes
+2624,Property Crimes
+2625,Property Crimes
+2626,Violent Crimes
+2627,Property Crimes
+2628,Property Crimes
+2629,Property Crimes
+2630,Property Crimes
+2631,Property Crimes
+2632,Violent Crimes
+2633,Property Crimes
+2634,Fraud and White-Collar Crimes
+2635,Property Crimes
+2636,Property Crimes
+2637,Fraud and White-Collar Crimes
+2638,Property Crimes
+2639,Property Crimes
+2640,Crimes against Public Order
+2641,Property Crimes
+2642,Violent Crimes
+2643,Property Crimes
+2644,Property Crimes
+2645,Property Crimes
+2646,Property Crimes
+2647,Property Crimes
+2648,Violent Crimes
+2649,Property Crimes
+2650,Crimes against Public Order
+2651,Property Crimes
+2652,Property Crimes
+2653,Property Crimes
+2654,Crimes against Public Order
+2655,Property Crimes
+2656,Property Crimes
+2657,Fraud and White-Collar Crimes
+2658,Property Crimes
+2659,Violent Crimes
+2660,Violent Crimes
+2661,Property Crimes
+2662,Property Crimes
+2663,Violent Crimes
+2664,Violent Crimes
+2665,Property Crimes
+2666,Violent Crimes
+2667,Fraud and White-Collar Crimes
+2668,Violent Crimes
+2669,Property Crimes
+2670,Property Crimes
+2671,Violent Crimes
+2672,Violent Crimes
+2673,Property Crimes
+2674,Violent Crimes
+2675,Fraud and White-Collar Crimes
+2676,Violent Crimes
+2677,Property Crimes
+2678,Fraud and White-Collar Crimes
+2679,Violent Crimes
+2680,Property Crimes
+2681,Violent Crimes
+2682,Violent Crimes
+2683,Property Crimes
+2684,Crimes against Public Order
+2685,Property Crimes
+2686,Crimes against Public Order
+2687,Fraud and White-Collar Crimes
+2688,Property Crimes
+2689,Violent Crimes
+2690,Violent Crimes
+2691,Property Crimes
+2692,Violent Crimes
+2693,Property Crimes
+2694,Property Crimes
+2695,Property Crimes
+2696,Property Crimes
+2697,Violent Crimes
+2698,Violent Crimes
+2699,Property Crimes
+2700,Fraud and White-Collar Crimes
+2701,Property Crimes
+2702,Property Crimes
+2703,Property Crimes
+2704,Crimes against Public Order
+2705,Property Crimes
+2706,Property Crimes
+2707,Property Crimes
+2708,Property Crimes
+2709,Property Crimes
+2710,Violent Crimes
+2711,Property Crimes
+2712,Property Crimes
+2713,Property Crimes
+2714,Property Crimes
+2715,Violent Crimes
+2716,Property Crimes
+2717,Fraud and White-Collar Crimes
+2718,Violent Crimes
+2719,Crimes against Public Order
+2720,Crimes against Public Order
+2721,Property Crimes
+2722,Property Crimes
+2723,Property Crimes
+2724,Property Crimes
+2725,Property Crimes
+2726,Property Crimes
+2727,Violent Crimes
+2728,Property Crimes
+2729,Property Crimes
+2730,Property Crimes
+2731,Property Crimes
+2732,Property Crimes
+2733,Property Crimes
+2734,Property Crimes
+2735,Property Crimes
+2736,Property Crimes
+2737,Violent Crimes
+2738,Property Crimes
+2739,Violent Crimes
+2740,Crimes against Public Order
+2741,Property Crimes
+2742,Crimes against Public Order
+2743,Property Crimes
+2744,Fraud and White-Collar Crimes
+2745,Property Crimes
+2746,Property Crimes
+2747,Property Crimes
+2748,Property Crimes
+2749,Fraud and White-Collar Crimes
+2750,Property Crimes
+2751,Violent Crimes
+2752,Violent Crimes
+2753,Property Crimes
+2754,Property Crimes
+2755,Property Crimes
+2756,Property Crimes
+2757,Property Crimes
+2758,Property Crimes
+2759,Violent Crimes
+2760,Property Crimes
+2761,Violent Crimes
+2762,Violent Crimes
+2763,Property Crimes
+2764,Violent Crimes
+2765,Crimes against Public Order
+2766,Property Crimes
+2767,Violent Crimes
+2768,Violent Crimes
+2769,Property Crimes
+2770,Violent Crimes
+2771,Violent Crimes
+2772,Property Crimes
+2773,Violent Crimes
+2774,Violent Crimes
+2775,Violent Crimes
+2776,Property Crimes
+2777,Violent Crimes
+2778,Property Crimes
+2779,Property Crimes
+2780,Violent Crimes
+2781,Violent Crimes
+2782,Fraud and White-Collar Crimes
+2783,Fraud and White-Collar Crimes
+2784,Property Crimes
+2785,Violent Crimes
+2786,Violent Crimes
+2787,Fraud and White-Collar Crimes
+2788,Violent Crimes
+2789,Fraud and White-Collar Crimes
+2790,Property Crimes
+2791,Property Crimes
+2792,Property Crimes
+2793,Property Crimes
+2794,Property Crimes
+2795,Violent Crimes
+2796,Property Crimes
+2797,Property Crimes
+2798,Crimes against Public Order
+2799,Violent Crimes
+2800,Property Crimes
+2801,Property Crimes
+2802,Property Crimes
+2803,Violent Crimes
+2804,Property Crimes
+2805,Violent Crimes
+2806,Property Crimes
+2807,Property Crimes
+2808,Violent Crimes
+2809,Property Crimes
+2810,Property Crimes
+2811,Violent Crimes
+2812,Property Crimes
+2813,Property Crimes
+2814,Property Crimes
+2815,Property Crimes
+2816,Fraud and White-Collar Crimes
+2817,Violent Crimes
+2818,Property Crimes
+2819,Property Crimes
+2820,Property Crimes
+2821,Property Crimes
+2822,Property Crimes
+2823,Violent Crimes
+2824,Property Crimes
+2825,Property Crimes
+2826,Property Crimes
+2827,Property Crimes
+2828,Property Crimes
+2829,Property Crimes
+2830,Property Crimes
+2831,Violent Crimes
+2832,Violent Crimes
+2833,Property Crimes
+2834,Property Crimes
+2835,Property Crimes
+2836,Property Crimes
+2837,Violent Crimes
+2838,Property Crimes
+2839,Violent Crimes
+2840,Property Crimes
+2841,Property Crimes
+2842,Violent Crimes
+2843,Crimes against Public Order
+2844,Violent Crimes
+2845,Property Crimes
+2846,Property Crimes
+2847,Property Crimes
+2848,Property Crimes
+2849,Property Crimes
+2850,Property Crimes
+2851,Property Crimes
+2852,Property Crimes
+2853,Fraud and White-Collar Crimes
+2854,Property Crimes
+2855,Property Crimes
+2856,Property Crimes
+2857,Violent Crimes
+2858,Property Crimes
+2859,Violent Crimes
+2860,Property Crimes
+2861,Violent Crimes
+2862,Property Crimes
+2863,Property Crimes
+2864,Property Crimes
+2865,Property Crimes
+2866,Violent Crimes
+2867,Property Crimes
+2868,Property Crimes
+2869,Property Crimes
+2870,Property Crimes
+2871,Property Crimes
+2872,Crimes against Public Order
+2873,Property Crimes
+2874,Property Crimes
+2875,Property Crimes
+2876,Property Crimes
+2877,Property Crimes
+2878,Property Crimes
+2879,Property Crimes
+2880,Fraud and White-Collar Crimes
+2881,Property Crimes
+2882,Property Crimes
+2883,Fraud and White-Collar Crimes
+2884,Property Crimes
+2885,Property Crimes
+2886,Property Crimes
+2887,Property Crimes
+2888,Violent Crimes
+2889,Violent Crimes
+2890,Property Crimes
+2891,Violent Crimes
+2892,Property Crimes
+2893,Property Crimes
+2894,Property Crimes
+2895,Fraud and White-Collar Crimes
+2896,Property Crimes
+2897,Violent Crimes
+2898,Property Crimes
+2899,Property Crimes
+2900,Property Crimes
+2901,Fraud and White-Collar Crimes
+2902,Violent Crimes
+2903,Violent Crimes
+2904,Property Crimes
+2905,Property Crimes
+2906,Property Crimes
+2907,Fraud and White-Collar Crimes
+2908,Property Crimes
+2909,Property Crimes
+2910,Fraud and White-Collar Crimes
+2911,Property Crimes
+2912,Property Crimes
+2913,Property Crimes
+2914,Property Crimes
+2915,Fraud and White-Collar Crimes
+2916,Property Crimes
+2917,Violent Crimes
+2918,Property Crimes
+2919,Violent Crimes
+2920,Property Crimes
+2921,Fraud and White-Collar Crimes
+2922,Property Crimes
+2923,Property Crimes
+2924,Property Crimes
+2925,Property Crimes
+2926,Property Crimes
+2927,Property Crimes
+2928,Violent Crimes
+2929,Property Crimes
+2930,Property Crimes
+2931,Fraud and White-Collar Crimes
+2932,Property Crimes
+2933,Violent Crimes
+2934,Property Crimes
+2935,Property Crimes
+2936,Violent Crimes
+2937,Property Crimes
+2938,Property Crimes
+2939,Property Crimes
+2940,Property Crimes
+2941,Violent Crimes
+2942,Violent Crimes
+2943,Property Crimes
+2944,Property Crimes
+2945,Violent Crimes
+2946,Property Crimes
+2947,Property Crimes
+2948,Property Crimes
+2949,Property Crimes
+2950,Violent Crimes
+2951,Property Crimes
+2952,Property Crimes
+2953,Property Crimes
+2954,Property Crimes
+2955,Property Crimes
+2956,Property Crimes
+2957,Property Crimes
+2958,Violent Crimes
+2959,Violent Crimes
+2960,Property Crimes
+2961,Property Crimes
+2962,Fraud and White-Collar Crimes
+2963,Property Crimes
+2964,Property Crimes
+2965,Property Crimes
+2966,Violent Crimes
+2967,Fraud and White-Collar Crimes
+2968,Property Crimes
+2969,Violent Crimes
+2970,Property Crimes
+2971,Fraud and White-Collar Crimes
+2972,Violent Crimes
+2973,Violent Crimes
+2974,Violent Crimes
+2975,Property Crimes
+2976,Crimes against Public Order
+2977,Violent Crimes
+2978,Violent Crimes
+2979,Property Crimes
+2980,Property Crimes
+2981,Property Crimes
+2982,Violent Crimes
+2983,Property Crimes
+2984,Violent Crimes
+2985,Violent Crimes
+2986,Violent Crimes
+2987,Property Crimes
+2988,Property Crimes
+2989,Property Crimes
+2990,Violent Crimes
+2991,Property Crimes
+2992,Fraud and White-Collar Crimes
+2993,Violent Crimes
+2994,Property Crimes
+2995,Violent Crimes
+2996,Property Crimes
+2997,Fraud and White-Collar Crimes
+2998,Property Crimes
+2999,Violent Crimes
+3000,Property Crimes
+3001,Property Crimes
+3002,Property Crimes
+3003,Property Crimes
+3004,Property Crimes
+3005,Property Crimes
+3006,Property Crimes
+3007,Violent Crimes
+3008,Property Crimes
+3009,Property Crimes
+3010,Property Crimes
+3011,Property Crimes
+3012,Property Crimes
+3013,Crimes against Public Order
+3014,Property Crimes
+3015,Property Crimes
+3016,Other Crimes
+3017,Property Crimes
+3018,Property Crimes
+3019,Violent Crimes
+3020,Violent Crimes
+3021,Property Crimes
+3022,Violent Crimes
+3023,Property Crimes
+3024,Property Crimes
+3025,Violent Crimes
+3026,Violent Crimes
+3027,Property Crimes
+3028,Property Crimes
+3029,Property Crimes
+3030,Property Crimes
+3031,Violent Crimes
+3032,Property Crimes
+3033,Fraud and White-Collar Crimes
+3034,Property Crimes
+3035,Violent Crimes
+3036,Violent Crimes
+3037,Violent Crimes
+3038,Property Crimes
+3039,Property Crimes
+3040,Violent Crimes
+3041,Violent Crimes
+3042,Property Crimes
+3043,Property Crimes
+3044,Property Crimes
+3045,Property Crimes
+3046,Fraud and White-Collar Crimes
+3047,Property Crimes
+3048,Fraud and White-Collar Crimes
+3049,Violent Crimes
+3050,Fraud and White-Collar Crimes
+3051,Violent Crimes
+3052,Property Crimes
+3053,Property Crimes
+3054,Violent Crimes
+3055,Property Crimes
+3056,Violent Crimes
+3057,Violent Crimes
+3058,Property Crimes
+3059,Property Crimes
+3060,Violent Crimes
+3061,Property Crimes
+3062,Property Crimes
+3063,Property Crimes
+3064,Crimes against Public Order
+3065,Violent Crimes
+3066,Property Crimes
+3067,Fraud and White-Collar Crimes
+3068,Property Crimes
+3069,Crimes against Public Order
+3070,Property Crimes
+3071,Violent Crimes
+3072,Violent Crimes
+3073,Violent Crimes
+3074,Property Crimes
+3075,Property Crimes
+3076,Property Crimes
+3077,Violent Crimes
+3078,Property Crimes
+3079,Property Crimes
+3080,Property Crimes
+3081,Property Crimes
+3082,Property Crimes
+3083,Property Crimes
+3084,Violent Crimes
+3085,Property Crimes
+3086,Property Crimes
+3087,Violent Crimes
+3088,Property Crimes
+3089,Property Crimes
+3090,Violent Crimes
+3091,Property Crimes
+3092,Violent Crimes
+3093,Violent Crimes
+3094,Property Crimes
+3095,Crimes against Public Order
+3096,Property Crimes
+3097,Property Crimes
+3098,Property Crimes
+3099,Violent Crimes
+3100,Property Crimes
+3101,Property Crimes
+3102,Violent Crimes
+3103,Violent Crimes
+3104,Property Crimes
+3105,Property Crimes
+3106,Property Crimes
+3107,Property Crimes
+3108,Property Crimes
+3109,Fraud and White-Collar Crimes
+3110,Property Crimes
+3111,Fraud and White-Collar Crimes
+3112,Violent Crimes
+3113,Property Crimes
+3114,Fraud and White-Collar Crimes
+3115,Violent Crimes
+3116,Property Crimes
+3117,Property Crimes
+3118,Property Crimes
+3119,Violent Crimes
+3120,Fraud and White-Collar Crimes
+3121,Property Crimes
+3122,Violent Crimes
+3123,Violent Crimes
+3124,Property Crimes
+3125,Violent Crimes
+3126,Fraud and White-Collar Crimes
+3127,Property Crimes
+3128,Property Crimes
+3129,Property Crimes
+3130,Violent Crimes
+3131,Violent Crimes
+3132,Property Crimes
+3133,Property Crimes
+3134,Property Crimes
+3135,Property Crimes
+3136,Property Crimes
+3137,Property Crimes
+3138,Property Crimes
+3139,Property Crimes
+3140,Violent Crimes
+3141,Violent Crimes
+3142,Violent Crimes
+3143,Violent Crimes
+3144,Property Crimes
+3145,Violent Crimes
+3146,Violent Crimes
+3147,Property Crimes
+3148,Violent Crimes
+3149,Property Crimes
+3150,Violent Crimes
+3151,Violent Crimes
+3152,Violent Crimes
+3153,Property Crimes
+3154,Property Crimes
+3155,Fraud and White-Collar Crimes
+3156,Property Crimes
+3157,Violent Crimes
+3158,Property Crimes
+3159,Property Crimes
+3160,Violent Crimes
+3161,Property Crimes
+3162,Property Crimes
+3163,Property Crimes
+3164,Property Crimes
+3165,Violent Crimes
+3166,Property Crimes
+3167,Property Crimes
+3168,Property Crimes
+3169,Property Crimes
+3170,Property Crimes
+3171,Violent Crimes
+3172,Property Crimes
+3173,Property Crimes
+3174,Violent Crimes
+3175,Property Crimes
+3176,Fraud and White-Collar Crimes
+3177,Property Crimes
+3178,Property Crimes
+3179,Property Crimes
+3180,Property Crimes
+3181,Property Crimes
+3182,Property Crimes
+3183,Violent Crimes
+3184,Property Crimes
+3185,Crimes against Persons
+3186,Property Crimes
+3187,Property Crimes
+3188,Property Crimes
+3189,Property Crimes
+3190,Property Crimes
+3191,Fraud and White-Collar Crimes
+3192,Property Crimes
+3193,Violent Crimes
+3194,Property Crimes
+3195,Property Crimes
+3196,Property Crimes
+3197,Property Crimes
+3198,Violent Crimes
+3199,Property Crimes
+3200,Violent Crimes
+3201,Crimes against Public Order
+3202,Violent Crimes
+3203,Violent Crimes
+3204,Property Crimes
+3205,Fraud and White-Collar Crimes
+3206,Violent Crimes
+3207,Property Crimes
+3208,Property Crimes
+3209,Property Crimes
+3210,Property Crimes
+3211,Fraud and White-Collar Crimes
+3212,Violent Crimes
+3213,Property Crimes
+3214,Property Crimes
+3215,Violent Crimes
+3216,Property Crimes
+3217,Property Crimes
+3218,Property Crimes
+3219,Property Crimes
+3220,Violent Crimes
+3221,Property Crimes
+3222,Property Crimes
+3223,Property Crimes
+3224,Property Crimes
+3225,Fraud and White-Collar Crimes
+3226,Fraud and White-Collar Crimes
+3227,Property Crimes
+3228,Property Crimes
+3229,Property Crimes
+3230,Property Crimes
+3231,Property Crimes
+3232,Property Crimes
+3233,Crimes against Public Order
+3234,Property Crimes
+3235,Property Crimes
+3236,Property Crimes
+3237,Property Crimes
+3238,Violent Crimes
+3239,Violent Crimes
+3240,Violent Crimes
+3241,Property Crimes
+3242,Property Crimes
+3243,Property Crimes
+3244,Violent Crimes
+3245,Property Crimes
+3246,Violent Crimes
+3247,Fraud and White-Collar Crimes
+3248,Property Crimes
+3249,Other Crimes
+3250,Property Crimes
+3251,Property Crimes
+3252,Property Crimes
+3253,Property Crimes
+3254,Fraud and White-Collar Crimes
+3255,Property Crimes
+3256,Fraud and White-Collar Crimes
+3257,Property Crimes
+3258,Property Crimes
+3259,Violent Crimes
+3260,Fraud and White-Collar Crimes
+3261,Property Crimes
+3262,Crimes against Public Order
+3263,Property Crimes
+3264,Property Crimes
+3265,Property Crimes
+3266,Property Crimes
+3267,Property Crimes
+3268,Property Crimes
+3269,Property Crimes
+3270,Property Crimes
+3271,Property Crimes
+3272,Fraud and White-Collar Crimes
+3273,Property Crimes
+3274,Violent Crimes
+3275,Property Crimes
+3276,Violent Crimes
+3277,Property Crimes
+3278,Property Crimes
+3279,Property Crimes
+3280,Property Crimes
+3281,Violent Crimes
+3282,Property Crimes
+3283,Violent Crimes
+3284,Property Crimes
+3285,Violent Crimes
+3286,Property Crimes
+3287,Violent Crimes
+3288,Property Crimes
+3289,Property Crimes
+3290,Violent Crimes
+3291,Property Crimes
+3292,Property Crimes
+3293,Property Crimes
+3294,Violent Crimes
+3295,Violent Crimes
+3296,Property Crimes
+3297,Property Crimes
+3298,Violent Crimes
+3299,Violent Crimes
+3300,Violent Crimes
+3301,Property Crimes
+3302,Violent Crimes
+3303,Violent Crimes
+3304,Property Crimes
+3305,Property Crimes
+3306,Property Crimes
+3307,Violent Crimes
+3308,Violent Crimes
+3309,Property Crimes
+3310,Fraud and White-Collar Crimes
+3311,Property Crimes
+3312,Property Crimes
+3313,Fraud and White-Collar Crimes
+3314,Fraud and White-Collar Crimes
+3315,Property Crimes
+3316,Violent Crimes
+3317,Crimes against Public Order
+3318,Violent Crimes
+3319,Violent Crimes
+3320,Property Crimes
+3321,Property Crimes
+3322,Property Crimes
+3323,Property Crimes
+3324,Fraud and White-Collar Crimes
+3325,Property Crimes
+3326,Violent Crimes
+3327,Fraud and White-Collar Crimes
+3328,Violent Crimes
+3329,Property Crimes
+3330,Violent Crimes
+3331,Property Crimes
+3332,Crimes against Public Order
+3333,Property Crimes
+3334,Property Crimes
+3335,Property Crimes
+3336,Fraud and White-Collar Crimes
+3337,Property Crimes
+3338,Property Crimes
+3339,Crimes against Persons
+3340,Violent Crimes
+3341,Violent Crimes
+3342,Violent Crimes
+3343,Property Crimes
+3344,Property Crimes
+3345,Violent Crimes
+3346,Property Crimes
+3347,Violent Crimes
+3348,Property Crimes
+3349,Fraud and White-Collar Crimes
+3350,Property Crimes
+3351,Violent Crimes
+3352,Fraud and White-Collar Crimes
+3353,Property Crimes
+3354,Property Crimes
+3355,Property Crimes
+3356,Property Crimes
+3357,Property Crimes
+3358,Property Crimes
+3359,Property Crimes
+3360,Property Crimes
+3361,Property Crimes
+3362,Property Crimes
+3363,Property Crimes
+3364,Property Crimes
+3365,Property Crimes
+3366,Violent Crimes
+3367,Violent Crimes
+3368,Violent Crimes
+3369,Fraud and White-Collar Crimes
+3370,Property Crimes
+3371,Violent Crimes
+3372,Violent Crimes
+3373,Property Crimes
+3374,Property Crimes
+3375,Violent Crimes
+3376,Violent Crimes
+3377,Property Crimes
+3378,Property Crimes
+3379,Violent Crimes
+3380,Violent Crimes
+3381,Violent Crimes
+3382,Violent Crimes
+3383,Property Crimes
+3384,Property Crimes
+3385,Violent Crimes
+3386,Property Crimes
+3387,Violent Crimes
+3388,Property Crimes
+3389,Property Crimes
+3390,Property Crimes
+3391,Property Crimes
+3392,Property Crimes
+3393,Property Crimes
+3394,Crimes against Public Order
+3395,Violent Crimes
+3396,Property Crimes
+3397,Property Crimes
+3398,Property Crimes
+3399,Property Crimes
+3400,Property Crimes
+3401,Property Crimes
+3402,Violent Crimes
+3403,Violent Crimes
+3404,Fraud and White-Collar Crimes
+3405,Violent Crimes
+3406,Violent Crimes
+3407,Fraud and White-Collar Crimes
+3408,Property Crimes
+3409,Property Crimes
+3410,Property Crimes
+3411,Property Crimes
+3412,Property Crimes
+3413,Violent Crimes
+3414,Property Crimes
+3415,Property Crimes
+3416,Property Crimes
+3417,Property Crimes
+3418,Violent Crimes
+3419,Property Crimes
+3420,Property Crimes
+3421,Property Crimes
+3422,Property Crimes
+3423,Violent Crimes
+3424,Property Crimes
+3425,Property Crimes
+3426,Violent Crimes
+3427,Violent Crimes
+3428,Property Crimes
+3429,Property Crimes
+3430,Property Crimes
+3431,Property Crimes
+3432,Property Crimes
+3433,Violent Crimes
+3434,Violent Crimes
+3435,Property Crimes
+3436,Property Crimes
+3437,Property Crimes
+3438,Property Crimes
+3439,Property Crimes
+3440,Property Crimes
+3441,Property Crimes
+3442,Property Crimes
+3443,Property Crimes
+3444,Violent Crimes
+3445,Property Crimes
+3446,Violent Crimes
+3447,Property Crimes
+3448,Violent Crimes
+3449,Crimes against Public Order
+3450,Property Crimes
+3451,Property Crimes
+3452,Violent Crimes
+3453,Violent Crimes
+3454,Violent Crimes
+3455,Property Crimes
+3456,Property Crimes
+3457,Property Crimes
+3458,Fraud and White-Collar Crimes
+3459,Property Crimes
+3460,Property Crimes
+3461,Property Crimes
+3462,Property Crimes
+3463,Violent Crimes
+3464,Property Crimes
+3465,Violent Crimes
+3466,Property Crimes
+3467,Property Crimes
+3468,Property Crimes
+3469,Property Crimes
+3470,Property Crimes
+3471,Property Crimes
+3472,Property Crimes
+3473,Property Crimes
+3474,Violent Crimes
+3475,Violent Crimes
+3476,Violent Crimes
+3477,Property Crimes
+3478,Property Crimes
+3479,Property Crimes
+3480,Property Crimes
+3481,Property Crimes
+3482,Fraud and White-Collar Crimes
+3483,Property Crimes
+3484,Property Crimes
+3485,Property Crimes
+3486,Property Crimes
+3487,Property Crimes
+3488,Property Crimes
+3489,Property Crimes
+3490,Property Crimes
+3491,Fraud and White-Collar Crimes
+3492,Property Crimes
+3493,Property Crimes
+3494,Property Crimes
+3495,Property Crimes
+3496,Property Crimes
+3497,Violent Crimes
+3498,Violent Crimes
+3499,Violent Crimes
+3500,Property Crimes
+3501,Violent Crimes
+3502,Property Crimes
+3503,Property Crimes
+3504,Violent Crimes
+3505,Property Crimes
+3506,Crimes against Public Order
+3507,Property Crimes
+3508,Violent Crimes
+3509,Property Crimes
+3510,Property Crimes
+3511,Violent Crimes
+3512,Violent Crimes
+3513,Property Crimes
+3514,Property Crimes
+3515,Violent Crimes
+3516,Property Crimes
+3517,Property Crimes
+3518,Property Crimes
+3519,Violent Crimes
+3520,Fraud and White-Collar Crimes
+3521,Violent Crimes
+3522,Violent Crimes
+3523,Property Crimes
+3524,Property Crimes
+3525,Violent Crimes
+3526,Property Crimes
+3527,Violent Crimes
+3528,Fraud and White-Collar Crimes
+3529,Property Crimes
+3530,Fraud and White-Collar Crimes
+3531,Violent Crimes
+3532,Property Crimes
+3533,Violent Crimes
+3534,Violent Crimes
+3535,Violent Crimes
+3536,Property Crimes
+3537,Property Crimes
+3538,Property Crimes
+3539,Property Crimes
+3540,Fraud and White-Collar Crimes
+3541,Property Crimes
+3542,Property Crimes
+3543,Property Crimes
+3544,Violent Crimes
+3545,Violent Crimes
+3546,Property Crimes
+3547,Violent Crimes
+3548,Property Crimes
+3549,Crimes against Public Order
+3550,Property Crimes
+3551,Property Crimes
+3552,Fraud and White-Collar Crimes
+3553,Crimes against Public Order
+3554,Property Crimes
+3555,Fraud and White-Collar Crimes
+3556,Property Crimes
+3557,Property Crimes
+3558,Property Crimes
+3559,Property Crimes
+3560,Property Crimes
+3561,Violent Crimes
+3562,Property Crimes
+3563,Property Crimes
+3564,Property Crimes
+3565,Violent Crimes
+3566,Violent Crimes
+3567,Property Crimes
+3568,Property Crimes
+3569,Property Crimes
+3570,Property Crimes
+3571,Violent Crimes
+3572,Property Crimes
+3573,Property Crimes
+3574,Property Crimes
+3575,Property Crimes
+3576,Fraud and White-Collar Crimes
+3577,Property Crimes
+3578,Violent Crimes
+3579,Fraud and White-Collar Crimes
+3580,Violent Crimes
+3581,Violent Crimes
+3582,Property Crimes
+3583,Property Crimes
+3584,Property Crimes
+3585,Violent Crimes
+3586,Violent Crimes
+3587,Property Crimes
+3588,Property Crimes
+3589,Violent Crimes
+3590,Property Crimes
+3591,Property Crimes
+3592,Violent Crimes
+3593,Fraud and White-Collar Crimes
+3594,Fraud and White-Collar Crimes
+3595,Violent Crimes
+3596,Crimes against Public Order
+3597,Property Crimes
+3598,Violent Crimes
+3599,Fraud and White-Collar Crimes
+3600,Property Crimes
+3601,Fraud and White-Collar Crimes
+3602,Property Crimes
+3603,Property Crimes
+3604,Property Crimes
+3605,Violent Crimes
+3606,Fraud and White-Collar Crimes
+3607,Property Crimes
+3608,Property Crimes
+3609,Property Crimes
+3610,Property Crimes
+3611,Property Crimes
+3612,Property Crimes
+3613,Property Crimes
+3614,Property Crimes
+3615,Fraud and White-Collar Crimes
+3616,Property Crimes
+3617,Property Crimes
+3618,Property Crimes
+3619,Property Crimes
+3620,Violent Crimes
+3621,Property Crimes
+3622,Violent Crimes
+3623,Fraud and White-Collar Crimes
+3624,Property Crimes
+3625,Violent Crimes
+3626,Property Crimes
+3627,Fraud and White-Collar Crimes
+3628,Property Crimes
+3629,Property Crimes
+3630,Property Crimes
+3631,Fraud and White-Collar Crimes
+3632,Crimes against Public Order
+3633,Property Crimes
+3634,Property Crimes
+3635,Property Crimes
+3636,Property Crimes
+3637,Fraud and White-Collar Crimes
+3638,Violent Crimes
+3639,Property Crimes
+3640,Property Crimes
+3641,Property Crimes
+3642,Property Crimes
+3643,Property Crimes
+3644,Violent Crimes
+3645,Property Crimes
+3646,Property Crimes
+3647,Violent Crimes
+3648,Property Crimes
+3649,Violent Crimes
+3650,Property Crimes
+3651,Property Crimes
+3652,Property Crimes
+3653,Violent Crimes
+3654,Property Crimes
+3655,Violent Crimes
+3656,Violent Crimes
+3657,Property Crimes
+3658,Property Crimes
+3659,Property Crimes
+3660,Violent Crimes
+3661,Violent Crimes
+3662,Property Crimes
+3663,Violent Crimes
+3664,Property Crimes
+3665,Property Crimes
+3666,Property Crimes
+3667,Property Crimes
+3668,Property Crimes
+3669,Property Crimes
+3670,Violent Crimes
+3671,Violent Crimes
+3672,Property Crimes
+3673,Property Crimes
+3674,Fraud and White-Collar Crimes
+3675,Violent Crimes
+3676,Property Crimes
+3677,Property Crimes
+3678,Property Crimes
+3679,Violent Crimes
+3680,Property Crimes
+3681,Property Crimes
+3682,Fraud and White-Collar Crimes
+3683,Property Crimes
+3684,Property Crimes
+3685,Violent Crimes
+3686,Violent Crimes
+3687,Property Crimes
+3688,Property Crimes
+3689,Property Crimes
+3690,Property Crimes
+3691,Violent Crimes
+3692,Property Crimes
+3693,Violent Crimes
+3694,Property Crimes
+3695,Property Crimes
+3696,Violent Crimes
+3697,Property Crimes
+3698,Property Crimes
+3699,Property Crimes
+3700,Property Crimes
+3701,Property Crimes
+3702,Crimes against Public Order
+3703,Property Crimes
+3704,Fraud and White-Collar Crimes
+3705,Fraud and White-Collar Crimes
+3706,Property Crimes
+3707,Fraud and White-Collar Crimes
+3708,Property Crimes
+3709,Property Crimes
+3710,Property Crimes
+3711,Violent Crimes
+3712,Violent Crimes
+3713,Property Crimes
+3714,Property Crimes
+3715,Property Crimes
+3716,Property Crimes
+3717,Property Crimes
+3718,Fraud and White-Collar Crimes
+3719,Property Crimes
+3720,Property Crimes
+3721,Violent Crimes
+3722,Property Crimes
+3723,Property Crimes
+3724,Crimes against Public Order
+3725,Property Crimes
+3726,Violent Crimes
+3727,Property Crimes
+3728,Property Crimes
+3729,Property Crimes
+3730,Fraud and White-Collar Crimes
+3731,Violent Crimes
+3732,Property Crimes
+3733,Violent Crimes
+3734,Property Crimes
+3735,Property Crimes
+3736,Property Crimes
+3737,Property Crimes
+3738,Property Crimes
+3739,Property Crimes
+3740,Property Crimes
+3741,Violent Crimes
+3742,Violent Crimes
+3743,Property Crimes
+3744,Property Crimes
+3745,Property Crimes
+3746,Property Crimes
+3747,Violent Crimes
+3748,Property Crimes
+3749,Violent Crimes
+3750,Violent Crimes
+3751,Violent Crimes
+3752,Violent Crimes
+3753,Property Crimes
+3754,Violent Crimes
+3755,Fraud and White-Collar Crimes
+3756,Property Crimes
+3757,Fraud and White-Collar Crimes
+3758,Fraud and White-Collar Crimes
+3759,Violent Crimes
+3760,Property Crimes
+3761,Property Crimes
+3762,Property Crimes
+3763,Property Crimes
+3764,Property Crimes
+3765,Property Crimes
+3766,Fraud and White-Collar Crimes
+3767,Fraud and White-Collar Crimes
+3768,Crimes against Public Order
+3769,Property Crimes
+3770,Property Crimes
+3771,Property Crimes
+3772,Violent Crimes
+3773,Violent Crimes
+3774,Property Crimes
+3775,Property Crimes
+3776,Property Crimes
+3777,Property Crimes
+3778,Property Crimes
+3779,Violent Crimes
+3780,Violent Crimes
+3781,Property Crimes
+3782,Violent Crimes
+3783,Property Crimes
+3784,Property Crimes
+3785,Violent Crimes
+3786,Property Crimes
+3787,Property Crimes
+3788,Property Crimes
+3789,Property Crimes
+3790,Property Crimes
+3791,Property Crimes
+3792,Property Crimes
+3793,Property Crimes
+3794,Property Crimes
+3795,Property Crimes
+3796,Property Crimes
+3797,Violent Crimes
+3798,Violent Crimes
+3799,Violent Crimes
+3800,Violent Crimes
+3801,Fraud and White-Collar Crimes
+3802,Property Crimes
+3803,Property Crimes
+3804,Fraud and White-Collar Crimes
+3805,Property Crimes
+3806,Property Crimes
+3807,Property Crimes
+3808,Violent Crimes
+3809,Property Crimes
+3810,Property Crimes
+3811,Violent Crimes
+3812,Property Crimes
+3813,Violent Crimes
+3814,Violent Crimes
+3815,Property Crimes
+3816,Violent Crimes
+3817,Property Crimes
+3818,Violent Crimes
+3819,Property Crimes
+3820,Violent Crimes
+3821,Property Crimes
+3822,Violent Crimes
+3823,Fraud and White-Collar Crimes
+3824,Property Crimes
+3825,Violent Crimes
+3826,Property Crimes
+3827,Property Crimes
+3828,Property Crimes
+3829,Property Crimes
+3830,Property Crimes
+3831,Property Crimes
+3832,Violent Crimes
+3833,Violent Crimes
+3834,Property Crimes
+3835,Crimes against Public Order
+3836,Property Crimes
+3837,Fraud and White-Collar Crimes
+3838,Property Crimes
+3839,Violent Crimes
+3840,Property Crimes
+3841,Property Crimes
+3842,Violent Crimes
+3843,Property Crimes
+3844,Property Crimes
+3845,Violent Crimes
+3846,Property Crimes
+3847,Property Crimes
+3848,Property Crimes
+3849,Property Crimes
+3850,Violent Crimes
+3851,Violent Crimes
+3852,Violent Crimes
+3853,Property Crimes
+3854,Violent Crimes
+3855,Property Crimes
+3856,Violent Crimes
+3857,Property Crimes
+3858,Property Crimes
+3859,Property Crimes
+3860,Property Crimes
+3861,Violent Crimes
+3862,Property Crimes
+3863,Property Crimes
+3864,Violent Crimes
+3865,Violent Crimes
+3866,Violent Crimes
+3867,Property Crimes
+3868,Property Crimes
+3869,Violent Crimes
+3870,Property Crimes
+3871,Violent Crimes
+3872,Property Crimes
+3873,Violent Crimes
+3874,Property Crimes
+3875,Violent Crimes
+3876,Property Crimes
+3877,Crimes against Public Order
+3878,Property Crimes
+3879,Property Crimes
+3880,Violent Crimes
+3881,Violent Crimes
+3882,Property Crimes
+3883,Property Crimes
+3884,Violent Crimes
+3885,Property Crimes
+3886,Property Crimes
+3887,Property Crimes
+3888,Property Crimes
+3889,Property Crimes
+3890,Property Crimes
+3891,Property Crimes
+3892,Violent Crimes
+3893,Property Crimes
+3894,Property Crimes
+3895,Property Crimes
+3896,Fraud and White-Collar Crimes
+3897,Violent Crimes
+3898,Property Crimes
+3899,Property Crimes
+3900,Property Crimes
+3901,Fraud and White-Collar Crimes
+3902,Violent Crimes
+3903,Violent Crimes
+3904,Property Crimes
+3905,Property Crimes
+3906,Property Crimes
+3907,Violent Crimes
+3908,Property Crimes
+3909,Violent Crimes
+3910,Property Crimes
+3911,Property Crimes
+3912,Property Crimes
+3913,Violent Crimes
+3914,Property Crimes
+3915,Fraud and White-Collar Crimes
+3916,Violent Crimes
+3917,Property Crimes
+3918,Property Crimes
+3919,Property Crimes
+3920,Property Crimes
+3921,Property Crimes
+3922,Property Crimes
+3923,Violent Crimes
+3924,Property Crimes
+3925,Property Crimes
+3926,Property Crimes
+3927,Fraud and White-Collar Crimes
+3928,Property Crimes
+3929,Violent Crimes
+3930,Violent Crimes
+3931,Property Crimes
+3932,Violent Crimes
+3933,Violent Crimes
+3934,Property Crimes
+3935,Property Crimes
+3936,Fraud and White-Collar Crimes
+3937,Property Crimes
+3938,Property Crimes
+3939,Property Crimes
+3940,Property Crimes
+3941,Property Crimes
+3942,Violent Crimes
+3943,Fraud and White-Collar Crimes
+3944,Property Crimes
+3945,Property Crimes
+3946,Violent Crimes
+3947,Property Crimes
+3948,Property Crimes
+3949,Property Crimes
+3950,Property Crimes
+3951,Property Crimes
+3952,Property Crimes
+3953,Property Crimes
+3954,Property Crimes
+3955,Property Crimes
+3956,Property Crimes
+3957,Property Crimes
+3958,Fraud and White-Collar Crimes
+3959,Property Crimes
+3960,Property Crimes
+3961,Property Crimes
+3962,Fraud and White-Collar Crimes
+3963,Property Crimes
+3964,Property Crimes
+3965,Property Crimes
+3966,Property Crimes
+3967,Fraud and White-Collar Crimes
+3968,Fraud and White-Collar Crimes
+3969,Violent Crimes
+3970,Property Crimes
+3971,Violent Crimes
+3972,Property Crimes
+3973,Property Crimes
+3974,Violent Crimes
+3975,Property Crimes
+3976,Property Crimes
+3977,Property Crimes
+3978,Crimes against Public Order
+3979,Violent Crimes
+3980,Violent Crimes
+3981,Property Crimes
+3982,Violent Crimes
+3983,Property Crimes
+3984,Violent Crimes
+3985,Property Crimes
+3986,Violent Crimes
+3987,Violent Crimes
+3988,Violent Crimes
+3989,Violent Crimes
+3990,Property Crimes
+3991,Violent Crimes
+3992,Property Crimes
+3993,Violent Crimes
+3994,Property Crimes
+3995,Violent Crimes
+3996,Property Crimes
+3997,Violent Crimes
+3998,Violent Crimes
+3999,Property Crimes
+4000,Property Crimes
+4001,Property Crimes
+4002,Property Crimes
+4003,Property Crimes
+4004,Property Crimes
+4005,Property Crimes
+4006,Violent Crimes
+4007,Property Crimes
+4008,Violent Crimes
+4009,Property Crimes
+4010,Property Crimes
+4011,Property Crimes
+4012,Property Crimes
+4013,Violent Crimes
+4014,Property Crimes
+4015,Property Crimes
+4016,Property Crimes
+4017,Property Crimes
+4018,Property Crimes
+4019,Fraud and White-Collar Crimes
+4020,Property Crimes
+4021,Violent Crimes
+4022,Violent Crimes
+4023,Violent Crimes
+4024,Property Crimes
+4025,Property Crimes
+4026,Property Crimes
+4027,Crimes against Public Order
+4028,Property Crimes
+4029,Violent Crimes
+4030,Property Crimes
+4031,Property Crimes
+4032,Property Crimes
+4033,Property Crimes
+4034,Property Crimes
+4035,Violent Crimes
+4036,Property Crimes
+4037,Crimes against Public Order
+4038,Property Crimes
+4039,Property Crimes
+4040,Property Crimes
+4041,Property Crimes
+4042,Property Crimes
+4043,Property Crimes
+4044,Property Crimes
+4045,Property Crimes
+4046,Property Crimes
+4047,Fraud and White-Collar Crimes
+4048,Property Crimes
+4049,Property Crimes
+4050,Other Crimes
+4051,Property Crimes
+4052,Property Crimes
+4053,Fraud and White-Collar Crimes
+4054,Violent Crimes
+4055,Property Crimes
+4056,Property Crimes
+4057,Violent Crimes
+4058,Property Crimes
+4059,Violent Crimes
+4060,Fraud and White-Collar Crimes
+4061,Property Crimes
+4062,Crimes against Public Order
+4063,Property Crimes
+4064,Violent Crimes
+4065,Property Crimes
+4066,Property Crimes
+4067,Property Crimes
+4068,Property Crimes
+4069,Property Crimes
+4070,Crimes against Public Order
+4071,Property Crimes
+4072,Property Crimes
+4073,Property Crimes
+4074,Property Crimes
+4075,Property Crimes
+4076,Property Crimes
+4077,Violent Crimes
+4078,Fraud and White-Collar Crimes
+4079,Property Crimes
+4080,Property Crimes
+4081,Violent Crimes
+4082,Crimes against Public Order
+4083,Property Crimes
+4084,Property Crimes
+4085,Property Crimes
+4086,Violent Crimes
+4087,Property Crimes
+4088,Property Crimes
+4089,Property Crimes
+4090,Property Crimes
+4091,Property Crimes
+4092,Violent Crimes
+4093,Property Crimes
+4094,Property Crimes
+4095,Property Crimes
+4096,Property Crimes
+4097,Property Crimes
+4098,Property Crimes
+4099,Property Crimes
+4100,Property Crimes
+4101,Violent Crimes
+4102,Crimes against Public Order
+4103,Property Crimes
+4104,Fraud and White-Collar Crimes
+4105,Property Crimes
+4106,Violent Crimes
+4107,Violent Crimes
+4108,Violent Crimes
+4109,Property Crimes
+4110,Property Crimes
+4111,Property Crimes
+4112,Property Crimes
+4113,Property Crimes
+4114,Property Crimes
+4115,Property Crimes
+4116,Violent Crimes
+4117,Violent Crimes
+4118,Property Crimes
+4119,Violent Crimes
+4120,Violent Crimes
+4121,Fraud and White-Collar Crimes
+4122,Property Crimes
+4123,Violent Crimes
+4124,Violent Crimes
+4125,Property Crimes
+4126,Property Crimes
+4127,Property Crimes
+4128,Property Crimes
+4129,Violent Crimes
+4130,Property Crimes
+4131,Violent Crimes
+4132,Violent Crimes
+4133,Property Crimes
+4134,Property Crimes
+4135,Property Crimes
+4136,Property Crimes
+4137,Fraud and White-Collar Crimes
+4138,Violent Crimes
+4139,Violent Crimes
+4140,Property Crimes
+4141,Property Crimes
+4142,Property Crimes
+4143,Property Crimes
+4144,Property Crimes
+4145,Property Crimes
+4146,Property Crimes
+4147,Property Crimes
+4148,Property Crimes
+4149,Violent Crimes
+4150,Property Crimes
+4151,Property Crimes
+4152,Violent Crimes
+4153,Property Crimes
+4154,Violent Crimes
+4155,Violent Crimes
+4156,Property Crimes
+4157,Property Crimes
+4158,Property Crimes
+4159,Property Crimes
+4160,Violent Crimes
+4161,Property Crimes
+4162,Property Crimes
+4163,Fraud and White-Collar Crimes
+4164,Property Crimes
+4165,Violent Crimes
+4166,Violent Crimes
+4167,Property Crimes
+4168,Property Crimes
+4169,Violent Crimes
+4170,Property Crimes
+4171,Property Crimes
+4172,Property Crimes
+4173,Fraud and White-Collar Crimes
+4174,Property Crimes
+4175,Violent Crimes
+4176,Property Crimes
+4177,Property Crimes
+4178,Property Crimes
+4179,Property Crimes
+4180,Property Crimes
+4181,Violent Crimes
+4182,Property Crimes
+4183,Fraud and White-Collar Crimes
+4184,Property Crimes
+4185,Violent Crimes
+4186,Violent Crimes
+4187,Property Crimes
+4188,Property Crimes
+4189,Crimes against Public Order
+4190,Property Crimes
+4191,Violent Crimes
+4192,Violent Crimes
+4193,Violent Crimes
+4194,Fraud and White-Collar Crimes
+4195,Property Crimes
+4196,Property Crimes
+4197,Fraud and White-Collar Crimes
+4198,Property Crimes
+4199,Property Crimes
+4200,Property Crimes
+4201,Property Crimes
+4202,Property Crimes
+4203,Property Crimes
+4204,Property Crimes
+4205,Property Crimes
+4206,Property Crimes
+4207,Violent Crimes
+4208,Property Crimes
+4209,Property Crimes
+4210,Property Crimes
+4211,Violent Crimes
+4212,Violent Crimes
+4213,Property Crimes
+4214,Violent Crimes
+4215,Violent Crimes
+4216,Property Crimes
+4217,Property Crimes
+4218,Violent Crimes
+4219,Violent Crimes
+4220,Property Crimes
+4221,Property Crimes
+4222,Property Crimes
+4223,Violent Crimes
+4224,Violent Crimes
+4225,Violent Crimes
+4226,Violent Crimes
+4227,Property Crimes
+4228,Violent Crimes
+4229,Fraud and White-Collar Crimes
+4230,Property Crimes
+4231,Property Crimes
+4232,Property Crimes
+4233,Violent Crimes
+4234,Property Crimes
+4235,Property Crimes
+4236,Property Crimes
+4237,Violent Crimes
+4238,Violent Crimes
+4239,Property Crimes
+4240,Property Crimes
+4241,Property Crimes
+4242,Fraud and White-Collar Crimes
+4243,Property Crimes
+4244,Property Crimes
+4245,Property Crimes
+4246,Property Crimes
+4247,Property Crimes
+4248,Property Crimes
+4249,Violent Crimes
+4250,Property Crimes
+4251,Property Crimes
+4252,Violent Crimes
+4253,Property Crimes
+4254,Crimes against Public Order
+4255,Property Crimes
+4256,Property Crimes
+4257,Violent Crimes
+4258,Violent Crimes
+4259,Property Crimes
+4260,Property Crimes
+4261,Property Crimes
+4262,Violent Crimes
+4263,Property Crimes
+4264,Violent Crimes
+4265,Violent Crimes
+4266,Violent Crimes
+4267,Property Crimes
+4268,Property Crimes
+4269,Fraud and White-Collar Crimes
+4270,Violent Crimes
+4271,Violent Crimes
+4272,Property Crimes
+4273,Property Crimes
+4274,Property Crimes
+4275,Property Crimes
+4276,Property Crimes
+4277,Property Crimes
+4278,Property Crimes
+4279,Property Crimes
+4280,Property Crimes
+4281,Violent Crimes
+4282,Property Crimes
+4283,Property Crimes
+4284,Violent Crimes
+4285,Property Crimes
+4286,Violent Crimes
+4287,Property Crimes
+4288,Property Crimes
+4289,Property Crimes
+4290,Crimes against Public Order
+4291,Violent Crimes
+4292,Crimes against Persons
+4293,Property Crimes
+4294,Fraud and White-Collar Crimes
+4295,Violent Crimes
+4296,Property Crimes
+4297,Property Crimes
+4298,Fraud and White-Collar Crimes
+4299,Property Crimes
+4300,Fraud and White-Collar Crimes
+4301,Property Crimes
+4302,Property Crimes
+4303,Property Crimes
+4304,Property Crimes
+4305,Violent Crimes
+4306,Violent Crimes
+4307,Crimes against Public Order
+4308,Violent Crimes
+4309,Property Crimes
+4310,Violent Crimes
+4311,Violent Crimes
+4312,Violent Crimes
+4313,Property Crimes
+4314,Violent Crimes
+4315,Property Crimes
+4316,Property Crimes
+4317,Property Crimes
+4318,Property Crimes
+4319,Property Crimes
+4320,Fraud and White-Collar Crimes
+4321,Property Crimes
+4322,Property Crimes
+4323,Property Crimes
+4324,Fraud and White-Collar Crimes
+4325,Property Crimes
+4326,Property Crimes
+4327,Violent Crimes
+4328,Violent Crimes
+4329,Property Crimes
+4330,Property Crimes
+4331,Violent Crimes
+4332,Property Crimes
+4333,Fraud and White-Collar Crimes
+4334,Property Crimes
+4335,Property Crimes
+4336,Violent Crimes
+4337,Property Crimes
+4338,Property Crimes
+4339,Property Crimes
+4340,Property Crimes
+4341,Property Crimes
+4342,Property Crimes
+4343,Property Crimes
+4344,Property Crimes
+4345,Property Crimes
+4346,Property Crimes
+4347,Violent Crimes
+4348,Property Crimes
+4349,Violent Crimes
+4350,Property Crimes
+4351,Crimes against Public Order
+4352,Property Crimes
+4353,Fraud and White-Collar Crimes
+4354,Property Crimes
+4355,Property Crimes
+4356,Property Crimes
+4357,Property Crimes
+4358,Property Crimes
+4359,Property Crimes
+4360,Violent Crimes
+4361,Violent Crimes
+4362,Property Crimes
+4363,Property Crimes
+4364,Property Crimes
+4365,Property Crimes
+4366,Property Crimes
+4367,Property Crimes
+4368,Fraud and White-Collar Crimes
+4369,Property Crimes
+4370,Property Crimes
+4371,Property Crimes
+4372,Property Crimes
+4373,Property Crimes
+4374,Property Crimes
+4375,Violent Crimes
+4376,Property Crimes
+4377,Property Crimes
+4378,Property Crimes
+4379,Property Crimes
+4380,Property Crimes
+4381,Property Crimes
+4382,Violent Crimes
+4383,Property Crimes
+4384,Violent Crimes
+4385,Violent Crimes
+4386,Property Crimes
+4387,Property Crimes
+4388,Property Crimes
+4389,Property Crimes
+4390,Property Crimes
+4391,Property Crimes
+4392,Property Crimes
+4393,Violent Crimes
+4394,Property Crimes
+4395,Property Crimes
+4396,Property Crimes
+4397,Property Crimes
+4398,Property Crimes
+4399,Property Crimes
+4400,Property Crimes
+4401,Violent Crimes
+4402,Violent Crimes
+4403,Violent Crimes
+4404,Property Crimes
+4405,Property Crimes
+4406,Violent Crimes
+4407,Property Crimes
+4408,Violent Crimes
+4409,Property Crimes
+4410,Property Crimes
+4411,Property Crimes
+4412,Property Crimes
+4413,Property Crimes
+4414,Property Crimes
+4415,Property Crimes
+4416,Property Crimes
+4417,Violent Crimes
+4418,Property Crimes
+4419,Property Crimes
+4420,Property Crimes
+4421,Property Crimes
+4422,Property Crimes
+4423,Property Crimes
+4424,Property Crimes
+4425,Property Crimes
+4426,Violent Crimes
+4427,Property Crimes
+4428,Crimes against Public Order
+4429,Violent Crimes
+4430,Property Crimes
+4431,Property Crimes
+4432,Property Crimes
+4433,Violent Crimes
+4434,Property Crimes
+4435,Property Crimes
+4436,Violent Crimes
+4437,Property Crimes
+4438,Property Crimes
+4439,Fraud and White-Collar Crimes
+4440,Other Crimes
+4441,Property Crimes
+4442,Property Crimes
+4443,Violent Crimes
+4444,Property Crimes
+4445,Violent Crimes
+4446,Property Crimes
+4447,Property Crimes
+4448,Property Crimes
+4449,Property Crimes
+4450,Violent Crimes
+4451,Violent Crimes
+4452,Violent Crimes
+4453,Property Crimes
+4454,Property Crimes
+4455,Property Crimes
+4456,Property Crimes
+4457,Property Crimes
+4458,Property Crimes
+4459,Violent Crimes
+4460,Property Crimes
+4461,Fraud and White-Collar Crimes
+4462,Property Crimes
+4463,Violent Crimes
+4464,Property Crimes
+4465,Property Crimes
+4466,Violent Crimes
+4467,Property Crimes
+4468,Fraud and White-Collar Crimes
+4469,Property Crimes
+4470,Violent Crimes
+4471,Property Crimes
+4472,Violent Crimes
+4473,Property Crimes
+4474,Fraud and White-Collar Crimes
+4475,Fraud and White-Collar Crimes
+4476,Property Crimes
+4477,Property Crimes
+4478,Property Crimes
+4479,Property Crimes
+4480,Property Crimes
+4481,Fraud and White-Collar Crimes
+4482,Property Crimes
+4483,Property Crimes
+4484,Property Crimes
+4485,Property Crimes
+4486,Fraud and White-Collar Crimes
+4487,Property Crimes
+4488,Property Crimes
+4489,Violent Crimes
+4490,Property Crimes
+4491,Property Crimes
+4492,Violent Crimes
+4493,Property Crimes
+4494,Property Crimes
+4495,Property Crimes
+4496,Property Crimes
+4497,Property Crimes
+4498,Fraud and White-Collar Crimes
+4499,Fraud and White-Collar Crimes
+4500,Fraud and White-Collar Crimes
+4501,Crimes against Public Order
+4502,Violent Crimes
+4503,Property Crimes
+4504,Property Crimes
+4505,Violent Crimes
+4506,Property Crimes
+4507,Fraud and White-Collar Crimes
+4508,Property Crimes
+4509,Property Crimes
+4510,Property Crimes
+4511,Property Crimes
+4512,Fraud and White-Collar Crimes
+4513,Fraud and White-Collar Crimes
+4514,Property Crimes
+4515,Property Crimes
+4516,Property Crimes
+4517,Property Crimes
+4518,Fraud and White-Collar Crimes
+4519,Violent Crimes
+4520,Fraud and White-Collar Crimes
+4521,Crimes against Public Order
+4522,Crimes against Public Order
+4523,Property Crimes
+4524,Violent Crimes
+4525,Violent Crimes
+4526,Property Crimes
+4527,Violent Crimes
+4528,Property Crimes
+4529,Property Crimes
+4530,Property Crimes
+4531,Property Crimes
+4532,Property Crimes
+4533,Property Crimes
+4534,Violent Crimes
+4535,Property Crimes
+4536,Property Crimes
+4537,Fraud and White-Collar Crimes
+4538,Property Crimes
+4539,Crimes against Public Order
+4540,Fraud and White-Collar Crimes
+4541,Violent Crimes
+4542,Other Crimes
+4543,Property Crimes
+4544,Violent Crimes
+4545,Property Crimes
+4546,Property Crimes
+4547,Property Crimes
+4548,Property Crimes
+4549,Violent Crimes
+4550,Property Crimes
+4551,Property Crimes
+4552,Property Crimes
+4553,Property Crimes
+4554,Property Crimes
+4555,Property Crimes
+4556,Property Crimes
+4557,Property Crimes
+4558,Property Crimes
+4559,Fraud and White-Collar Crimes
+4560,Property Crimes
+4561,Fraud and White-Collar Crimes
+4562,Violent Crimes
+4563,Violent Crimes
+4564,Property Crimes
+4565,Property Crimes
+4566,Property Crimes
+4567,Fraud and White-Collar Crimes
+4568,Violent Crimes
+4569,Property Crimes
+4570,Property Crimes
+4571,Fraud and White-Collar Crimes
+4572,Violent Crimes
+4573,Property Crimes
+4574,Property Crimes
+4575,Property Crimes
+4576,Property Crimes
+4577,Violent Crimes
+4578,Property Crimes
+4579,Violent Crimes
+4580,Property Crimes
+4581,Property Crimes
+4582,Crimes against Public Order
+4583,Violent Crimes
+4584,Property Crimes
+4585,Violent Crimes
+4586,Violent Crimes
+4587,Property Crimes
+4588,Violent Crimes
+4589,Property Crimes
+4590,Property Crimes
+4591,Property Crimes
+4592,Property Crimes
+4593,Violent Crimes
+4594,Violent Crimes
+4595,Property Crimes
+4596,Property Crimes
+4597,Property Crimes
+4598,Violent Crimes
+4599,Property Crimes
+4600,Violent Crimes
+4601,Property Crimes
+4602,Property Crimes
+4603,Property Crimes
+4604,Property Crimes
+4605,Property Crimes
+4606,Fraud and White-Collar Crimes
+4607,Property Crimes
+4608,Property Crimes
+4609,Violent Crimes
+4610,Property Crimes
+4611,Property Crimes
+4612,Violent Crimes
+4613,Violent Crimes
+4614,Fraud and White-Collar Crimes
+4615,Property Crimes
+4616,Property Crimes
+4617,Property Crimes
+4618,Violent Crimes
+4619,Property Crimes
+4620,Property Crimes
+4621,Fraud and White-Collar Crimes
+4622,Violent Crimes
+4623,Property Crimes
+4624,Property Crimes
+4625,Property Crimes
+4626,Property Crimes
+4627,Violent Crimes
+4628,Property Crimes
+4629,Property Crimes
+4630,Property Crimes
+4631,Property Crimes
+4632,Fraud and White-Collar Crimes
+4633,Property Crimes
+4634,Fraud and White-Collar Crimes
+4635,Property Crimes
+4636,Property Crimes
+4637,Property Crimes
+4638,Property Crimes
+4639,Property Crimes
+4640,Property Crimes
+4641,Violent Crimes
+4642,Violent Crimes
+4643,Property Crimes
+4644,Crimes against Persons
+4645,Property Crimes
+4646,Property Crimes
+4647,Property Crimes
+4648,Violent Crimes
+4649,Property Crimes
+4650,Property Crimes
+4651,Violent Crimes
+4652,Property Crimes
+4653,Property Crimes
+4654,Property Crimes
+4655,Violent Crimes
+4656,Violent Crimes
+4657,Property Crimes
+4658,Property Crimes
+4659,Violent Crimes
+4660,Property Crimes
+4661,Property Crimes
+4662,Property Crimes
+4663,Fraud and White-Collar Crimes
+4664,Property Crimes
+4665,Property Crimes
+4666,Property Crimes
+4667,Property Crimes
+4668,Property Crimes
+4669,Property Crimes
+4670,Property Crimes
+4671,Property Crimes
+4672,Property Crimes
+4673,Violent Crimes
+4674,Property Crimes
+4675,Property Crimes
+4676,Violent Crimes
+4677,Property Crimes
+4678,Property Crimes
+4679,Property Crimes
+4680,Property Crimes
+4681,Violent Crimes
+4682,Property Crimes
+4683,Property Crimes
+4684,Property Crimes
+4685,Property Crimes
+4686,Property Crimes
+4687,Property Crimes
+4688,Property Crimes
+4689,Property Crimes
+4690,Violent Crimes
+4691,Property Crimes
+4692,Property Crimes
+4693,Property Crimes
+4694,Fraud and White-Collar Crimes
+4695,Violent Crimes
+4696,Property Crimes
+4697,Property Crimes
+4698,Property Crimes
+4699,Property Crimes
+4700,Property Crimes
+4701,Fraud and White-Collar Crimes
+4702,Violent Crimes
+4703,Property Crimes
+4704,Property Crimes
+4705,Property Crimes
+4706,Property Crimes
+4707,Fraud and White-Collar Crimes
+4708,Property Crimes
+4709,Property Crimes
+4710,Violent Crimes
+4711,Violent Crimes
+4712,Violent Crimes
+4713,Violent Crimes
+4714,Violent Crimes
+4715,Property Crimes
+4716,Property Crimes
+4717,Property Crimes
+4718,Violent Crimes
+4719,Violent Crimes
+4720,Property Crimes
+4721,Property Crimes
+4722,Property Crimes
+4723,Violent Crimes
+4724,Property Crimes
+4725,Fraud and White-Collar Crimes
+4726,Violent Crimes
+4727,Property Crimes
+4728,Violent Crimes
+4729,Property Crimes
+4730,Property Crimes
+4731,Property Crimes
+4732,Property Crimes
+4733,Property Crimes
+4734,Violent Crimes
+4735,Property Crimes
+4736,Property Crimes
+4737,Violent Crimes
+4738,Violent Crimes
+4739,Property Crimes
+4740,Violent Crimes
+4741,Property Crimes
+4742,Property Crimes
+4743,Violent Crimes
+4744,Property Crimes
+4745,Property Crimes
+4746,Property Crimes
+4747,Property Crimes
+4748,Property Crimes
+4749,Violent Crimes
+4750,Property Crimes
+4751,Property Crimes
+4752,Property Crimes
+4753,Property Crimes
+4754,Property Crimes
+4755,Property Crimes
+4756,Property Crimes
+4757,Property Crimes
+4758,Violent Crimes
+4759,Violent Crimes
+4760,Property Crimes
+4761,Property Crimes
+4762,Violent Crimes
+4763,Crimes against Public Order
+4764,Property Crimes
+4765,Property Crimes
+4766,Property Crimes
+4767,Violent Crimes
+4768,Violent Crimes
+4769,Property Crimes
+4770,Property Crimes
+4771,Property Crimes
+4772,Property Crimes
+4773,Property Crimes
+4774,Crimes against Public Order
+4775,Property Crimes
+4776,Property Crimes
+4777,Property Crimes
+4778,Property Crimes
+4779,Property Crimes
+4780,Violent Crimes
+4781,Violent Crimes
+4782,Property Crimes
+4783,Property Crimes
+4784,Property Crimes
+4785,Property Crimes
+4786,Property Crimes
+4787,Property Crimes
+4788,Property Crimes
+4789,Fraud and White-Collar Crimes
+4790,Property Crimes
+4791,Violent Crimes
+4792,Fraud and White-Collar Crimes
+4793,Property Crimes
+4794,Property Crimes
+4795,Property Crimes
+4796,Property Crimes
+4797,Fraud and White-Collar Crimes
+4798,Property Crimes
+4799,Violent Crimes
+4800,Property Crimes
+4801,Property Crimes
+4802,Other Crimes
+4803,Fraud and White-Collar Crimes
+4804,Property Crimes
+4805,Fraud and White-Collar Crimes
+4806,Property Crimes
+4807,Violent Crimes
+4808,Property Crimes
+4809,Property Crimes
+4810,Property Crimes
+4811,Property Crimes
+4812,Violent Crimes
+4813,Violent Crimes
+4814,Property Crimes
+4815,Property Crimes
+4816,Property Crimes
+4817,Crimes against Public Order
+4818,Violent Crimes
+4819,Fraud and White-Collar Crimes
+4820,Property Crimes
+4821,Property Crimes
+4822,Property Crimes
+4823,Property Crimes
+4824,Property Crimes
+4825,Property Crimes
+4826,Violent Crimes
+4827,Property Crimes
+4828,Property Crimes
+4829,Violent Crimes
+4830,Property Crimes
+4831,Property Crimes
+4832,Violent Crimes
+4833,Property Crimes
+4834,Violent Crimes
+4835,Property Crimes
+4836,Violent Crimes
+4837,Violent Crimes
+4838,Property Crimes
+4839,Property Crimes
+4840,Fraud and White-Collar Crimes
+4841,Fraud and White-Collar Crimes
+4842,Property Crimes
+4843,Violent Crimes
+4844,Violent Crimes
+4845,Property Crimes
+4846,Property Crimes
+4847,Violent Crimes
+4848,Fraud and White-Collar Crimes
+4849,Property Crimes
+4850,Property Crimes
+4851,Property Crimes
+4852,Property Crimes
+4853,Property Crimes
+4854,Property Crimes
+4855,Fraud and White-Collar Crimes
+4856,Property Crimes
+4857,Property Crimes
+4858,Property Crimes
+4859,Property Crimes
+4860,Property Crimes
+4861,Property Crimes
+4862,Violent Crimes
+4863,Property Crimes
+4864,Violent Crimes
+4865,Property Crimes
+4866,Fraud and White-Collar Crimes
+4867,Property Crimes
+4868,Violent Crimes
+4869,Violent Crimes
+4870,Violent Crimes
+4871,Violent Crimes
+4872,Violent Crimes
+4873,Property Crimes
+4874,Property Crimes
+4875,Property Crimes
+4876,Property Crimes
+4877,Property Crimes
+4878,Violent Crimes
+4879,Fraud and White-Collar Crimes
+4880,Violent Crimes
+4881,Property Crimes
+4882,Property Crimes
+4883,Violent Crimes
+4884,Violent Crimes
+4885,Violent Crimes
+4886,Fraud and White-Collar Crimes
+4887,Property Crimes
+4888,Violent Crimes
+4889,Violent Crimes
+4890,Property Crimes
+4891,Property Crimes
+4892,Property Crimes
+4893,Property Crimes
+4894,Violent Crimes
+4895,Violent Crimes
+4896,Property Crimes
+4897,Violent Crimes
+4898,Property Crimes
+4899,Violent Crimes
+4900,Property Crimes
+4901,Property Crimes
+4902,Property Crimes
+4903,Property Crimes
+4904,Property Crimes
+4905,Violent Crimes
+4906,Property Crimes
+4907,Property Crimes
+4908,Crimes against Persons
+4909,Fraud and White-Collar Crimes
+4910,Crimes against Public Order
+4911,Violent Crimes
+4912,Property Crimes
+4913,Property Crimes
+4914,Violent Crimes
+4915,Property Crimes
+4916,Violent Crimes
+4917,Violent Crimes
+4918,Violent Crimes
+4919,Property Crimes
+4920,Property Crimes
+4921,Property Crimes
+4922,Fraud and White-Collar Crimes
+4923,Property Crimes
+4924,Property Crimes
+4925,Fraud and White-Collar Crimes
+4926,Property Crimes
+4927,Fraud and White-Collar Crimes
+4928,Property Crimes
+4929,Property Crimes
+4930,Fraud and White-Collar Crimes
+4931,Property Crimes
+4932,Violent Crimes
+4933,Property Crimes
+4934,Property Crimes
+4935,Violent Crimes
+4936,Property Crimes
+4937,Property Crimes
+4938,Property Crimes
+4939,Property Crimes
+4940,Property Crimes
+4941,Violent Crimes
+4942,Property Crimes
+4943,Property Crimes
+4944,Violent Crimes
+4945,Property Crimes
+4946,Violent Crimes
+4947,Property Crimes
+4948,Violent Crimes
+4949,Violent Crimes
+4950,Property Crimes
+4951,Property Crimes
+4952,Violent Crimes
+4953,Fraud and White-Collar Crimes
+4954,Violent Crimes
+4955,Property Crimes
+4956,Property Crimes
+4957,Crimes against Public Order
+4958,Property Crimes
+4959,Property Crimes
+4960,Violent Crimes
+4961,Property Crimes
+4962,Property Crimes
+4963,Property Crimes
+4964,Property Crimes
+4965,Violent Crimes
+4966,Violent Crimes
+4967,Property Crimes
+4968,Property Crimes
+4969,Property Crimes
+4970,Violent Crimes
+4971,Property Crimes
+4972,Violent Crimes
+4973,Property Crimes
+4974,Violent Crimes
+4975,Violent Crimes
+4976,Property Crimes
+4977,Violent Crimes
+4978,Property Crimes
+4979,Property Crimes
+4980,Violent Crimes
+4981,Violent Crimes
+4982,Property Crimes
+4983,Property Crimes
+4984,Violent Crimes
+4985,Fraud and White-Collar Crimes
+4986,Violent Crimes
+4987,Violent Crimes
+4988,Property Crimes
+4989,Property Crimes
+4990,Crimes against Public Order
+4991,Violent Crimes
+4992,Property Crimes
+4993,Crimes against Public Order
+4994,Property Crimes
+4995,Property Crimes
+4996,Property Crimes
+4997,Violent Crimes
+4998,Crimes against Public Order
+4999,Property Crimes
