@@ -169,7 +169,7 @@ ID,Crime_Category
 168,Violent Crimes
 169,Property Crimes
 170,Crimes against Public Order
-171,Property Crimes
+171,Violent Crimes
 172,Property Crimes
 173,Fraud and White-Collar Crimes
 174,Property Crimes
@@ -355,7 +355,7 @@ ID,Crime_Category
 354,Property Crimes
 355,Property Crimes
 356,Violent Crimes
-357,Violent Crimes
+357,Crimes against Public Order
 358,Property Crimes
 359,Property Crimes
 360,Property Crimes
@@ -450,7 +450,7 @@ ID,Crime_Category
 449,Fraud and White-Collar Crimes
 450,Property Crimes
 451,Property Crimes
-452,Crimes against Public Order
+452,Violent Crimes
 453,Property Crimes
 454,Other Crimes
 455,Property Crimes
@@ -526,7 +526,7 @@ ID,Crime_Category
 525,Crimes against Public Order
 526,Crimes against Public Order
 527,Property Crimes
-528,Fraud and White-Collar Crimes
+528,Crimes against Public Order
 529,Violent Crimes
 530,Property Crimes
 531,Property Crimes
@@ -537,7 +537,7 @@ ID,Crime_Category
 536,Property Crimes
 537,Violent Crimes
 538,Fraud and White-Collar Crimes
-539,Fraud and White-Collar Crimes
+539,Crimes against Public Order
 540,Property Crimes
 541,Violent Crimes
 542,Violent Crimes
@@ -681,7 +681,7 @@ ID,Crime_Category
 680,Property Crimes
 681,Violent Crimes
 682,Property Crimes
-683,Other Crimes
+683,Crimes against Public Order
 684,Crimes against Public Order
 685,Fraud and White-Collar Crimes
 686,Property Crimes
@@ -805,7 +805,7 @@ ID,Crime_Category
 804,Property Crimes
 805,Fraud and White-Collar Crimes
 806,Violent Crimes
-807,Other Crimes
+807,Crimes against Public Order
 808,Property Crimes
 809,Property Crimes
 810,Property Crimes
@@ -828,7 +828,7 @@ ID,Crime_Category
 827,Property Crimes
 828,Property Crimes
 829,Violent Crimes
-830,Property Crimes
+830,Violent Crimes
 831,Property Crimes
 832,Property Crimes
 833,Fraud and White-Collar Crimes
@@ -940,7 +940,7 @@ ID,Crime_Category
 939,Property Crimes
 940,Violent Crimes
 941,Fraud and White-Collar Crimes
-942,Violent Crimes
+942,Crimes against Public Order
 943,Violent Crimes
 944,Property Crimes
 945,Property Crimes
@@ -996,7 +996,7 @@ ID,Crime_Category
 995,Violent Crimes
 996,Violent Crimes
 997,Property Crimes
-998,Violent Crimes
+998,Property Crimes
 999,Property Crimes
 1000,Property Crimes
 1001,Property Crimes
@@ -1006,7 +1006,7 @@ ID,Crime_Category
 1005,Violent Crimes
 1006,Property Crimes
 1007,Violent Crimes
-1008,Crimes against Public Order
+1008,Other Crimes
 1009,Property Crimes
 1010,Crimes against Public Order
 1011,Violent Crimes
@@ -1054,7 +1054,7 @@ ID,Crime_Category
 1053,Violent Crimes
 1054,Violent Crimes
 1055,Property Crimes
-1056,Crimes against Persons
+1056,Violent Crimes
 1057,Property Crimes
 1058,Violent Crimes
 1059,Property Crimes
@@ -1321,7 +1321,7 @@ ID,Crime_Category
 1320,Property Crimes
 1321,Property Crimes
 1322,Property Crimes
-1323,Violent Crimes
+1323,Crimes against Public Order
 1324,Property Crimes
 1325,Property Crimes
 1326,Property Crimes
@@ -1542,7 +1542,7 @@ ID,Crime_Category
 1541,Property Crimes
 1542,Crimes against Persons
 1543,Property Crimes
-1544,Fraud and White-Collar Crimes
+1544,Crimes against Public Order
 1545,Violent Crimes
 1546,Property Crimes
 1547,Property Crimes
@@ -1671,7 +1671,7 @@ ID,Crime_Category
 1670,Property Crimes
 1671,Property Crimes
 1672,Property Crimes
-1673,Violent Crimes
+1673,Property Crimes
 1674,Fraud and White-Collar Crimes
 1675,Crimes against Public Order
 1676,Property Crimes
@@ -1707,7 +1707,7 @@ ID,Crime_Category
 1706,Violent Crimes
 1707,Violent Crimes
 1708,Fraud and White-Collar Crimes
-1709,Crimes against Persons
+1709,Violent Crimes
 1710,Violent Crimes
 1711,Property Crimes
 1712,Property Crimes
@@ -1770,7 +1770,7 @@ ID,Crime_Category
 1769,Property Crimes
 1770,Property Crimes
 1771,Fraud and White-Collar Crimes
-1772,Crimes against Public Order
+1772,Other Crimes
 1773,Violent Crimes
 1774,Property Crimes
 1775,Crimes against Public Order
@@ -1795,7 +1795,7 @@ ID,Crime_Category
 1794,Property Crimes
 1795,Fraud and White-Collar Crimes
 1796,Property Crimes
-1797,Crimes against Public Order
+1797,Violent Crimes
 1798,Property Crimes
 1799,Property Crimes
 1800,Fraud and White-Collar Crimes
@@ -1834,7 +1834,7 @@ ID,Crime_Category
 1833,Property Crimes
 1834,Property Crimes
 1835,Violent Crimes
-1836,Crimes against Public Order
+1836,Other Crimes
 1837,Property Crimes
 1838,Violent Crimes
 1839,Property Crimes
@@ -1873,7 +1873,7 @@ ID,Crime_Category
 1872,Property Crimes
 1873,Violent Crimes
 1874,Property Crimes
-1875,Violent Crimes
+1875,Property Crimes
 1876,Fraud and White-Collar Crimes
 1877,Violent Crimes
 1878,Property Crimes
@@ -1910,13 +1910,13 @@ ID,Crime_Category
 1909,Property Crimes
 1910,Violent Crimes
 1911,Violent Crimes
-1912,Crimes against Public Order
+1912,Violent Crimes
 1913,Violent Crimes
 1914,Property Crimes
 1915,Property Crimes
 1916,Violent Crimes
 1917,Violent Crimes
-1918,Crimes against Persons
+1918,Violent Crimes
 1919,Property Crimes
 1920,Property Crimes
 1921,Property Crimes
@@ -1965,7 +1965,7 @@ ID,Crime_Category
 1964,Property Crimes
 1965,Crimes against Public Order
 1966,Violent Crimes
-1967,Violent Crimes
+1967,Fraud and White-Collar Crimes
 1968,Property Crimes
 1969,Property Crimes
 1970,Crimes against Public Order
@@ -2229,7 +2229,7 @@ ID,Crime_Category
 2228,Property Crimes
 2229,Property Crimes
 2230,Property Crimes
-2231,Violent Crimes
+2231,Property Crimes
 2232,Property Crimes
 2233,Property Crimes
 2234,Property Crimes
@@ -2252,7 +2252,7 @@ ID,Crime_Category
 2251,Crimes against Public Order
 2252,Violent Crimes
 2253,Property Crimes
-2254,Crimes against Public Order
+2254,Violent Crimes
 2255,Property Crimes
 2256,Property Crimes
 2257,Crimes against Public Order
@@ -2356,7 +2356,7 @@ ID,Crime_Category
 2355,Property Crimes
 2356,Property Crimes
 2357,Property Crimes
-2358,Fraud and White-Collar Crimes
+2358,Crimes against Public Order
 2359,Property Crimes
 2360,Violent Crimes
 2361,Violent Crimes
@@ -2389,7 +2389,7 @@ ID,Crime_Category
 2388,Property Crimes
 2389,Violent Crimes
 2390,Property Crimes
-2391,Violent Crimes
+2391,Property Crimes
 2392,Property Crimes
 2393,Crimes against Public Order
 2394,Fraud and White-Collar Crimes
@@ -2472,7 +2472,7 @@ ID,Crime_Category
 2471,Crimes against Public Order
 2472,Property Crimes
 2473,Property Crimes
-2474,Other Crimes
+2474,Crimes against Public Order
 2475,Violent Crimes
 2476,Property Crimes
 2477,Property Crimes
@@ -2543,7 +2543,7 @@ ID,Crime_Category
 2542,Property Crimes
 2543,Property Crimes
 2544,Property Crimes
-2545,Crimes against Persons
+2545,Violent Crimes
 2546,Property Crimes
 2547,Property Crimes
 2548,Property Crimes
@@ -2554,7 +2554,7 @@ ID,Crime_Category
 2553,Crimes against Public Order
 2554,Property Crimes
 2555,Property Crimes
-2556,Crimes against Persons
+2556,Crimes against Public Order
 2557,Fraud and White-Collar Crimes
 2558,Property Crimes
 2559,Property Crimes
@@ -2571,7 +2571,7 @@ ID,Crime_Category
 2570,Property Crimes
 2571,Violent Crimes
 2572,Crimes against Public Order
-2573,Property Crimes
+2573,Violent Crimes
 2574,Fraud and White-Collar Crimes
 2575,Violent Crimes
 2576,Crimes against Public Order
@@ -2856,7 +2856,7 @@ ID,Crime_Category
 2855,Property Crimes
 2856,Property Crimes
 2857,Property Crimes
-2858,Fraud and White-Collar Crimes
+2858,Crimes against Public Order
 2859,Property Crimes
 2860,Violent Crimes
 2861,Property Crimes
@@ -2875,7 +2875,7 @@ ID,Crime_Category
 2874,Property Crimes
 2875,Property Crimes
 2876,Property Crimes
-2877,Violent Crimes
+2877,Crimes against Public Order
 2878,Property Crimes
 2879,Property Crimes
 2880,Property Crimes
@@ -3036,7 +3036,7 @@ ID,Crime_Category
 3035,Property Crimes
 3036,Violent Crimes
 3037,Violent Crimes
-3038,Violent Crimes
+3038,Crimes against Public Order
 3039,Property Crimes
 3040,Property Crimes
 3041,Violent Crimes
@@ -3064,7 +3064,7 @@ ID,Crime_Category
 3063,Property Crimes
 3064,Property Crimes
 3065,Violent Crimes
-3066,Other Crimes
+3066,Crimes against Persons
 3067,Property Crimes
 3068,Crimes against Public Order
 3069,Property Crimes
@@ -3275,7 +3275,7 @@ ID,Crime_Category
 3274,Property Crimes
 3275,Violent Crimes
 3276,Property Crimes
-3277,Violent Crimes
+3277,Crimes against Public Order
 3278,Property Crimes
 3279,Crimes against Public Order
 3280,Violent Crimes
@@ -3363,7 +3363,7 @@ ID,Crime_Category
 3362,Property Crimes
 3363,Property Crimes
 3364,Property Crimes
-3365,Violent Crimes
+3365,Crimes against Public Order
 3366,Property Crimes
 3367,Crimes against Public Order
 3368,Property Crimes
@@ -3385,7 +3385,7 @@ ID,Crime_Category
 3384,Property Crimes
 3385,Property Crimes
 3386,Property Crimes
-3387,Property Crimes
+3387,Crimes against Public Order
 3388,Violent Crimes
 3389,Property Crimes
 3390,Property Crimes
@@ -3453,7 +3453,7 @@ ID,Crime_Category
 3452,Crimes against Public Order
 3453,Violent Crimes
 3454,Crimes against Public Order
-3455,Fraud and White-Collar Crimes
+3455,Crimes against Public Order
 3456,Property Crimes
 3457,Property Crimes
 3458,Crimes against Public Order
@@ -3619,7 +3619,7 @@ ID,Crime_Category
 3618,Property Crimes
 3619,Property Crimes
 3620,Violent Crimes
-3621,Other Crimes
+3621,Crimes against Public Order
 3622,Property Crimes
 3623,Violent Crimes
 3624,Fraud and White-Collar Crimes
@@ -3635,7 +3635,7 @@ ID,Crime_Category
 3634,Property Crimes
 3635,Violent Crimes
 3636,Property Crimes
-3637,Crimes against Public Order
+3637,Fraud and White-Collar Crimes
 3638,Fraud and White-Collar Crimes
 3639,Property Crimes
 3640,Fraud and White-Collar Crimes
@@ -3687,7 +3687,7 @@ ID,Crime_Category
 3686,Violent Crimes
 3687,Fraud and White-Collar Crimes
 3688,Property Crimes
-3689,Violent Crimes
+3689,Property Crimes
 3690,Violent Crimes
 3691,Property Crimes
 3692,Violent Crimes
@@ -3757,7 +3757,7 @@ ID,Crime_Category
 3756,Fraud and White-Collar Crimes
 3757,Property Crimes
 3758,Property Crimes
-3759,Violent Crimes
+3759,Crimes against Public Order
 3760,Crimes against Public Order
 3761,Property Crimes
 3762,Property Crimes
@@ -3813,7 +3813,7 @@ ID,Crime_Category
 3812,Violent Crimes
 3813,Property Crimes
 3814,Violent Crimes
-3815,Violent Crimes
+3815,Fraud and White-Collar Crimes
 3816,Property Crimes
 3817,Violent Crimes
 3818,Property Crimes
@@ -4069,7 +4069,7 @@ ID,Crime_Category
 4068,Property Crimes
 4069,Property Crimes
 4070,Property Crimes
-4071,Other Crimes
+4071,Crimes against Public Order
 4072,Property Crimes
 4073,Property Crimes
 4074,Property Crimes
@@ -4081,7 +4081,7 @@ ID,Crime_Category
 4080,Property Crimes
 4081,Property Crimes
 4082,Property Crimes
-4083,Fraud and White-Collar Crimes
+4083,Crimes against Public Order
 4084,Property Crimes
 4085,Property Crimes
 4086,Fraud and White-Collar Crimes
@@ -4251,7 +4251,7 @@ ID,Crime_Category
 4250,Violent Crimes
 4251,Violent Crimes
 4252,Property Crimes
-4253,Fraud and White-Collar Crimes
+4253,Crimes against Public Order
 4254,Property Crimes
 4255,Crimes against Public Order
 4256,Property Crimes
@@ -4410,7 +4410,7 @@ ID,Crime_Category
 4409,Violent Crimes
 4410,Property Crimes
 4411,Property Crimes
-4412,Violent Crimes
+4412,Property Crimes
 4413,Property Crimes
 4414,Violent Crimes
 4415,Property Crimes
@@ -4492,7 +4492,7 @@ ID,Crime_Category
 4491,Property Crimes
 4492,Property Crimes
 4493,Violent Crimes
-4494,Crimes against Public Order
+4494,Other Crimes
 4495,Property Crimes
 4496,Property Crimes
 4497,Violent Crimes
@@ -4687,7 +4687,7 @@ ID,Crime_Category
 4686,Violent Crimes
 4687,Property Crimes
 4688,Property Crimes
-4689,Crimes against Public Order
+4689,Violent Crimes
 4690,Property Crimes
 4691,Fraud and White-Collar Crimes
 4692,Property Crimes
@@ -4836,7 +4836,7 @@ ID,Crime_Category
 4835,Violent Crimes
 4836,Property Crimes
 4837,Violent Crimes
-4838,Crimes against Persons
+4838,Violent Crimes
 4839,Property Crimes
 4840,Property Crimes
 4841,Fraud and White-Collar Crimes
@@ -4886,7 +4886,7 @@ ID,Crime_Category
 4885,Crimes against Public Order
 4886,Fraud and White-Collar Crimes
 4887,Crimes against Public Order
-4888,Violent Crimes
+4888,Property Crimes
 4889,Crimes against Public Order
 4890,Violent Crimes
 4891,Property Crimes
